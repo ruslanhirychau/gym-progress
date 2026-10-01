@@ -1,0 +1,1513 @@
+Workout,Date,Exercise,Set,Reps,Weight (kg)
+"Pull",2026-09-30,"Seated Cable Row",1,12,60.0
+"Pull",2026-09-30,"Seated Cable Row",2,10,70.0
+"Pull",2026-09-30,"Seated Cable Row",3,10,75.0
+"Pull",2026-09-30,"Seated Cable Row",4,8,80.0
+"Pull",2026-09-30,"Reverse Pec Deck",1,12,30.0
+"Pull",2026-09-30,"Reverse Pec Deck",2,10,35.0
+"Pull",2026-09-30,"Reverse Pec Deck",3,10,40.0
+"Pull",2026-09-30,"Reverse Pec Deck",4,10,45.0
+"Pull",2026-09-30,"V-Bar Lat Pulldown",1,12,50.0
+"Pull",2026-09-30,"V-Bar Lat Pulldown",2,10,60.0
+"Pull",2026-09-30,"V-Bar Lat Pulldown",3,8,65.0
+"Pull",2026-09-30,"V-Bar Lat Pulldown",4,8,65.0
+"Pull",2026-09-30,"Face Pull",1,12,40.0
+"Pull",2026-09-30,"Face Pull",2,12,50.0
+"Pull",2026-09-30,"Face Pull",3,12,50.0
+"Pull",2026-09-30,"Dumbbell Hammer Curl",1,12,12.5
+"Pull",2026-09-30,"Dumbbell Hammer Curl",2,12,12.5
+"Pull",2026-09-30,"Dumbbell Hammer Curl",3,12,12.5
+"Pull",2026-09-30,"EZ-Bar Curl",1,12,30.0
+"Pull",2026-09-30,"EZ-Bar Curl",2,12,33.0
+"Pull",2026-09-30,"EZ-Bar Curl",3,12,33.0
+"Pull",2026-09-30,"Back Extension",1,12,15.0
+"Pull",2026-09-30,"Back Extension",2,12,20.0
+"Pull",2026-09-30,"Back Extension",3,12,25.0
+"Pull",2026-09-30,"Back Extension",4,12,25.0
+"Push",2026-09-28,"Seated Machine Chest Press",1,12,65.0
+"Push",2026-09-28,"Seated Machine Chest Press",2,10,75.0
+"Push",2026-09-28,"Seated Machine Chest Press",3,10,80.0
+"Push",2026-09-28,"Seated Machine Chest Press",4,8,85.0
+"Push",2026-09-28,"Incline Dumbbell Bench Press",1,12,15.0
+"Push",2026-09-28,"Incline Dumbbell Bench Press",2,12,17.5
+"Push",2026-09-28,"Incline Dumbbell Bench Press",3,12,20.0
+"Push",2026-09-28,"Incline Dumbbell Bench Press",4,12,22.5
+"Push",2026-09-28,"Pec Deck Fly",1,12,45.0
+"Push",2026-09-28,"Pec Deck Fly",2,10,55.0
+"Push",2026-09-28,"Pec Deck Fly",3,10,60.0
+"Push",2026-09-28,"Pec Deck Fly",4,10,65.0
+"Push",2026-09-28,"Triceps Rope Pushdown",1,12,50.0
+"Push",2026-09-28,"Triceps Rope Pushdown",2,12,60.0
+"Push",2026-09-28,"Triceps Rope Pushdown",3,12,65.0
+"Push",2026-09-28,"Triceps Rope Pushdown",4,8,70.0
+"Push",2026-09-28,"Machine Shoulder Press",1,12,30.0
+"Push",2026-09-28,"Machine Shoulder Press",2,12,35.0
+"Push",2026-09-28,"Machine Shoulder Press",3,10,35.0
+"Push",2026-09-28,"Machine Crunch",1,16,120.0
+"Push",2026-09-28,"Machine Crunch",2,16,120.0
+"Push",2026-09-28,"Machine Crunch",3,16,120.0
+"Push",2026-09-28,"Machine Crunch",4,16,120.0
+"Legs",2026-09-25,"Leg Press",1,12,140.0
+"Legs",2026-09-25,"Leg Press",2,10,160.0
+"Legs",2026-09-25,"Leg Press",3,10,170.0
+"Legs",2026-09-25,"Leg Press",4,10,170.0
+"Legs",2026-09-25,"Romanian Deadlift",1,12,40.0
+"Legs",2026-09-25,"Romanian Deadlift",2,12,50.0
+"Legs",2026-09-25,"Romanian Deadlift",3,12,60.0
+"Legs",2026-09-25,"Romanian Deadlift",4,12,70.0
+"Legs",2026-09-25,"Barbell Hip Thrust",1,12,100.0
+"Legs",2026-09-25,"Barbell Hip Thrust",2,12,110.0
+"Legs",2026-09-25,"Barbell Hip Thrust",3,12,120.0
+"Legs",2026-09-25,"Seated Leg Curl",1,12,70.0
+"Legs",2026-09-25,"Seated Leg Curl",2,12,80.0
+"Legs",2026-09-25,"Seated Leg Curl",3,12,85.0
+"Legs",2026-09-25,"Seated Leg Curl",4,12,90.0
+"Legs",2026-09-25,"Leg Extension",1,12,60.0
+"Legs",2026-09-25,"Leg Extension",2,12,70.0
+"Legs",2026-09-25,"Leg Extension",3,12,80.0
+"Legs",2026-09-25,"Leg Extension",4,10,85.0
+"Legs",2026-09-25,"Machine Crunch",1,16,120.0
+"Legs",2026-09-25,"Machine Crunch",2,16,120.0
+"Legs",2026-09-25,"Machine Crunch",3,16,120.0
+"Legs",2026-09-25,"Machine Crunch",4,16,120.0
+"Pull",2026-09-23,"Seated Cable Row",1,12,60.0
+"Pull",2026-09-23,"Seated Cable Row",2,10,70.0
+"Pull",2026-09-23,"Seated Cable Row",3,10,75.0
+"Pull",2026-09-23,"Seated Cable Row",4,10,75.0
+"Pull",2026-09-23,"Reverse Pec Deck",1,12,30.0
+"Pull",2026-09-23,"Reverse Pec Deck",2,10,35.0
+"Pull",2026-09-23,"Reverse Pec Deck",3,10,40.0
+"Pull",2026-09-23,"Reverse Pec Deck",4,10,45.0
+"Pull",2026-09-23,"Wide-Grip Lat Pulldown",1,12,50.0
+"Pull",2026-09-23,"Wide-Grip Lat Pulldown",2,10,60.0
+"Pull",2026-09-23,"Wide-Grip Lat Pulldown",3,10,65.0
+"Pull",2026-09-23,"Wide-Grip Lat Pulldown",4,8,65.0
+"Pull",2026-09-23,"Face Pull",1,12,40.0
+"Pull",2026-09-23,"Face Pull",2,12,50.0
+"Pull",2026-09-23,"Face Pull",3,12,50.0
+"Pull",2026-09-23,"Dumbbell Hammer Curl",1,12,12.5
+"Pull",2026-09-23,"Dumbbell Hammer Curl",2,12,12.5
+"Pull",2026-09-23,"Dumbbell Hammer Curl",3,12,12.5
+"Pull",2026-09-23,"EZ-Bar Curl",1,12,27.5
+"Pull",2026-09-23,"EZ-Bar Curl",2,12,30.0
+"Pull",2026-09-23,"EZ-Bar Curl",3,12,33.0
+"Pull",2026-09-23,"Back Extension",1,12,15.0
+"Pull",2026-09-23,"Back Extension",2,12,20.0
+"Pull",2026-09-23,"Back Extension",3,12,25.0
+"Pull",2026-09-23,"Back Extension",4,12,25.0
+"Pull",2026-09-23,"Machine Crunch",1,16,120.0
+"Pull",2026-09-23,"Machine Crunch",2,16,120.0
+"Pull",2026-09-23,"Machine Crunch",3,16,120.0
+"Pull",2026-09-23,"Machine Crunch",4,16,120.0
+"Push",2026-09-21,"Seated Machine Chest Press",1,12,65.0
+"Push",2026-09-21,"Seated Machine Chest Press",2,10,75.0
+"Push",2026-09-21,"Seated Machine Chest Press",3,10,80.0
+"Push",2026-09-21,"Seated Machine Chest Press",4,10,80.0
+"Push",2026-09-21,"Incline Dumbbell Bench Press",1,12,12.5
+"Push",2026-09-21,"Incline Dumbbell Bench Press",2,12,15.0
+"Push",2026-09-21,"Incline Dumbbell Bench Press",3,12,17.5
+"Push",2026-09-21,"Incline Dumbbell Bench Press",4,12,20.0
+"Push",2026-09-21,"Incline Dumbbell Bench Press",5,12,20.0
+"Push",2026-09-21,"Pec Deck Fly",1,12,45.0
+"Push",2026-09-21,"Pec Deck Fly",2,10,55.0
+"Push",2026-09-21,"Pec Deck Fly",3,10,60.0
+"Push",2026-09-21,"Pec Deck Fly",4,8,65.0
+"Push",2026-09-21,"Triceps Rope Pushdown",1,12,50.0
+"Push",2026-09-21,"Triceps Rope Pushdown",2,12,60.0
+"Push",2026-09-21,"Triceps Rope Pushdown",3,12,65.0
+"Push",2026-09-21,"Triceps Rope Pushdown",4,12,65.0
+"Push",2026-09-21,"Machine Shoulder Press",1,12,30.0
+"Push",2026-09-21,"Machine Shoulder Press",2,10,30.0
+"Push",2026-09-21,"Machine Shoulder Press",3,10,30.0
+"Push",2026-09-21,"Machine Crunch",1,16,120.0
+"Push",2026-09-21,"Machine Crunch",2,16,120.0
+"Push",2026-09-21,"Machine Crunch",3,16,120.0
+"Push",2026-09-21,"Machine Crunch",4,16,120.0
+"Legs",2026-09-18,"Leg Press",1,12,130.0
+"Legs",2026-09-18,"Leg Press",2,10,150.0
+"Legs",2026-09-18,"Leg Press",3,10,160.0
+"Legs",2026-09-18,"Leg Press",4,10,170.0
+"Legs",2026-09-18,"Romanian Deadlift",1,12,40.0
+"Legs",2026-09-18,"Romanian Deadlift",2,12,50.0
+"Legs",2026-09-18,"Romanian Deadlift",3,12,60.0
+"Legs",2026-09-18,"Romanian Deadlift",4,12,60.0
+"Legs",2026-09-18,"Barbell Hip Thrust",1,12,100.0
+"Legs",2026-09-18,"Barbell Hip Thrust",2,12,110.0
+"Legs",2026-09-18,"Barbell Hip Thrust",3,10,120.0
+"Legs",2026-09-18,"Seated Leg Curl",1,12,70.0
+"Legs",2026-09-18,"Seated Leg Curl",2,12,80.0
+"Legs",2026-09-18,"Seated Leg Curl",3,12,85.0
+"Legs",2026-09-18,"Seated Leg Curl",4,12,90.0
+"Legs",2026-09-18,"Leg Extension",1,12,60.0
+"Legs",2026-09-18,"Leg Extension",2,12,70.0
+"Legs",2026-09-18,"Leg Extension",3,12,80.0
+"Legs",2026-09-18,"Leg Extension",4,12,85.0
+"Legs",2026-09-18,"Machine Crunch",1,16,120.0
+"Legs",2026-09-18,"Machine Crunch",2,16,120.0
+"Legs",2026-09-18,"Machine Crunch",3,16,120.0
+"Legs",2026-09-18,"Machine Crunch",4,16,120.0
+"Pull",2026-09-16,"Seated Cable Row",1,12,55.0
+"Pull",2026-09-16,"Seated Cable Row",2,12,65.0
+"Pull",2026-09-16,"Seated Cable Row",3,10,70.0
+"Pull",2026-09-16,"Seated Cable Row",4,10,75.0
+"Pull",2026-09-16,"Reverse Pec Deck",1,12,30.0
+"Pull",2026-09-16,"Reverse Pec Deck",2,8,40.0
+"Pull",2026-09-16,"Reverse Pec Deck",3,10,40.0
+"Pull",2026-09-16,"Reverse Pec Deck",4,10,40.0
+"Pull",2026-09-16,"Wide-Grip Lat Pulldown",1,12,50.0
+"Pull",2026-09-16,"Wide-Grip Lat Pulldown",2,10,60.0
+"Pull",2026-09-16,"Wide-Grip Lat Pulldown",3,10,65.0
+"Pull",2026-09-16,"Wide-Grip Lat Pulldown",4,8,65.0
+"Pull",2026-09-16,"Face Pull",1,12,40.0
+"Pull",2026-09-16,"Face Pull",2,12,45.0
+"Pull",2026-09-16,"Face Pull",3,12,50.0
+"Pull",2026-09-16,"Dumbbell Hammer Curl",1,12,12.5
+"Pull",2026-09-16,"Dumbbell Hammer Curl",2,12,12.5
+"Pull",2026-09-16,"Dumbbell Hammer Curl",3,12,12.5
+"Pull",2026-09-16,"EZ-Bar Curl",1,12,27.5
+"Pull",2026-09-16,"EZ-Bar Curl",2,12,30.0
+"Pull",2026-09-16,"EZ-Bar Curl",3,12,30.0
+"Pull",2026-09-16,"Back Extension",1,12,15.0
+"Pull",2026-09-16,"Back Extension",2,12,20.0
+"Pull",2026-09-16,"Back Extension",3,12,25.0
+"Pull",2026-09-16,"Back Extension",4,12,25.0
+"Pull",2026-09-16,"Machine Crunch",1,16,120.0
+"Pull",2026-09-16,"Machine Crunch",2,16,120.0
+"Pull",2026-09-16,"Machine Crunch",3,16,120.0
+"Pull",2026-09-16,"Machine Crunch",4,16,120.0
+"Push",2026-09-14,"Seated Machine Chest Press",1,12,60.0
+"Push",2026-09-14,"Seated Machine Chest Press",2,10,70.0
+"Push",2026-09-14,"Seated Machine Chest Press",3,10,75.0
+"Push",2026-09-14,"Seated Machine Chest Press",4,10,80.0
+"Push",2026-09-14,"Incline Dumbbell Bench Press",1,12,15.0
+"Push",2026-09-14,"Incline Dumbbell Bench Press",2,12,17.5
+"Push",2026-09-14,"Incline Dumbbell Bench Press",3,12,17.5
+"Push",2026-09-14,"Incline Dumbbell Bench Press",4,12,20.0
+"Push",2026-09-14,"Pec Deck Fly",1,12,45.0
+"Push",2026-09-14,"Pec Deck Fly",2,10,55.0
+"Push",2026-09-14,"Pec Deck Fly",3,10,55.0
+"Push",2026-09-14,"Pec Deck Fly",4,10,55.0
+"Push",2026-09-14,"Triceps Rope Pushdown",1,12,45.0
+"Push",2026-09-14,"Triceps Rope Pushdown",2,12,55.0
+"Push",2026-09-14,"Triceps Rope Pushdown",3,12,60.0
+"Push",2026-09-14,"Triceps Rope Pushdown",4,12,65.0
+"Push",2026-09-14,"Machine Shoulder Press",1,12,30.0
+"Push",2026-09-14,"Machine Shoulder Press",2,12,35.0
+"Push",2026-09-14,"Machine Shoulder Press",3,8,35.0
+"Push",2026-09-14,"Machine Crunch",1,16,120.0
+"Push",2026-09-14,"Machine Crunch",2,16,120.0
+"Push",2026-09-14,"Machine Crunch",3,16,120.0
+"Push",2026-09-14,"Machine Crunch",4,16,120.0
+"Legs",2026-09-11,"Leg Press",1,12,130.0
+"Legs",2026-09-11,"Leg Press",2,10,140.0
+"Legs",2026-09-11,"Leg Press",3,10,150.0
+"Legs",2026-09-11,"Leg Press",4,10,160.0
+"Legs",2026-09-11,"Romanian Deadlift",1,12,40.0
+"Legs",2026-09-11,"Romanian Deadlift",2,12,50.0
+"Legs",2026-09-11,"Romanian Deadlift",3,12,55.0
+"Legs",2026-09-11,"Romanian Deadlift",4,12,55.0
+"Legs",2026-09-11,"Barbell Hip Thrust",1,12,100.0
+"Legs",2026-09-11,"Barbell Hip Thrust",2,12,110.0
+"Legs",2026-09-11,"Barbell Hip Thrust",3,10,120.0
+"Legs",2026-09-11,"Seated Leg Curl",1,12,70.0
+"Legs",2026-09-11,"Seated Leg Curl",2,12,80.0
+"Legs",2026-09-11,"Seated Leg Curl",3,12,85.0
+"Legs",2026-09-11,"Seated Leg Curl",4,10,90.0
+"Legs",2026-09-11,"Leg Extension",1,12,60.0
+"Legs",2026-09-11,"Leg Extension",2,12,70.0
+"Legs",2026-09-11,"Leg Extension",3,12,80.0
+"Legs",2026-09-11,"Leg Extension",4,12,85.0
+"Pull",2026-09-09,"Seated Cable Row",1,12,55.0
+"Pull",2026-09-09,"Seated Cable Row",2,12,65.0
+"Pull",2026-09-09,"Seated Cable Row",3,10,70.0
+"Pull",2026-09-09,"Seated Cable Row",4,10,75.0
+"Pull",2026-09-09,"Reverse Pec Deck",1,12,30.0
+"Pull",2026-09-09,"Reverse Pec Deck",2,10,35.0
+"Pull",2026-09-09,"Reverse Pec Deck",3,8,40.0
+"Pull",2026-09-09,"Reverse Pec Deck",4,10,40.0
+"Pull",2026-09-09,"Wide-Grip Lat Pulldown",1,12,45.0
+"Pull",2026-09-09,"Wide-Grip Lat Pulldown",2,10,55.0
+"Pull",2026-09-09,"Wide-Grip Lat Pulldown",3,10,60.0
+"Pull",2026-09-09,"Wide-Grip Lat Pulldown",4,10,60.0
+"Pull",2026-09-09,"Face Pull",1,12,40.0
+"Pull",2026-09-09,"Face Pull",2,12,45.0
+"Pull",2026-09-09,"Face Pull",3,12,50.0
+"Pull",2026-09-09,"Dumbbell Hammer Curl",1,12,12.5
+"Pull",2026-09-09,"Dumbbell Hammer Curl",2,12,12.5
+"Pull",2026-09-09,"Dumbbell Hammer Curl",3,12,12.5
+"Pull",2026-09-09,"EZ-Bar Curl",1,12,25.0
+"Pull",2026-09-09,"EZ-Bar Curl",2,12,27.5
+"Pull",2026-09-09,"EZ-Bar Curl",3,12,30.0
+"Pull",2026-09-09,"Back Extension",1,12,15.0
+"Pull",2026-09-09,"Back Extension",2,12,20.0
+"Pull",2026-09-09,"Back Extension",3,12,25.0
+"Pull",2026-09-09,"Back Extension",4,12,25.0
+"Pull",2026-09-09,"Machine Crunch",1,16,120.0
+"Pull",2026-09-09,"Machine Crunch",2,16,120.0
+"Pull",2026-09-09,"Machine Crunch",3,16,120.0
+"Pull",2026-09-09,"Machine Crunch",4,14,120.0
+"Pull",2026-09-04,"Seated Cable Row",1,12,55.0
+"Pull",2026-09-04,"Seated Cable Row",2,12,65.0
+"Pull",2026-09-04,"Seated Cable Row",3,10,70.0
+"Pull",2026-09-04,"Seated Cable Row",4,10,75.0
+"Pull",2026-09-04,"Reverse Pec Deck",1,12,30.0
+"Pull",2026-09-04,"Reverse Pec Deck",2,12,35.0
+"Pull",2026-09-04,"Reverse Pec Deck",3,10,40.0
+"Pull",2026-09-04,"Reverse Pec Deck",4,10,40.0
+"Pull",2026-09-04,"Wide-Grip Lat Pulldown",1,12,45.0
+"Pull",2026-09-04,"Wide-Grip Lat Pulldown",2,10,55.0
+"Pull",2026-09-04,"Wide-Grip Lat Pulldown",3,10,60.0
+"Pull",2026-09-04,"Wide-Grip Lat Pulldown",4,10,60.0
+"Pull",2026-09-04,"Face Pull",1,12,40.0
+"Pull",2026-09-04,"Face Pull",2,12,45.0
+"Pull",2026-09-04,"Face Pull",3,12,50.0
+"Pull",2026-09-04,"Dumbbell Hammer Curl",1,12,10.0
+"Pull",2026-09-04,"Dumbbell Hammer Curl",2,12,12.5
+"Pull",2026-09-04,"Dumbbell Hammer Curl",3,11,12.5
+"Pull",2026-09-04,"EZ-Bar Curl",1,12,25.0
+"Pull",2026-09-04,"EZ-Bar Curl",2,12,27.5
+"Pull",2026-09-04,"EZ-Bar Curl",3,12,27.5
+"Pull",2026-09-04,"Back Extension",1,12,15.0
+"Pull",2026-09-04,"Back Extension",2,12,20.0
+"Pull",2026-09-04,"Back Extension",3,12,25.0
+"Pull",2026-09-04,"Back Extension",4,12,25.0
+"Pull",2026-09-04,"Machine Crunch",1,16,120.0
+"Pull",2026-09-04,"Machine Crunch",2,16,120.0
+"Pull",2026-09-04,"Machine Crunch",3,16,120.0
+"Pull",2026-09-04,"Machine Crunch",4,16,120.0
+"Push",2026-09-02,"Seated Machine Chest Press",1,12,60.0
+"Push",2026-09-02,"Seated Machine Chest Press",2,10,70.0
+"Push",2026-09-02,"Seated Machine Chest Press",3,10,75.0
+"Push",2026-09-02,"Seated Machine Chest Press",4,10,80.0
+"Push",2026-09-02,"Incline Dumbbell Bench Press",1,12,15.0
+"Push",2026-09-02,"Incline Dumbbell Bench Press",2,12,17.5
+"Push",2026-09-02,"Incline Dumbbell Bench Press",3,12,17.5
+"Push",2026-09-02,"Incline Dumbbell Bench Press",4,12,20.0
+"Push",2026-09-02,"Pec Deck Fly",1,12,45.0
+"Push",2026-09-02,"Pec Deck Fly",2,10,50.0
+"Push",2026-09-02,"Pec Deck Fly",3,10,55.0
+"Push",2026-09-02,"Pec Deck Fly",4,10,55.0
+"Push",2026-09-02,"Triceps Rope Pushdown",1,12,45.0
+"Push",2026-09-02,"Triceps Rope Pushdown",2,12,55.0
+"Push",2026-09-02,"Triceps Rope Pushdown",3,12,60.0
+"Push",2026-09-02,"Triceps Rope Pushdown",4,12,60.0
+"Push",2026-09-02,"Machine Shoulder Press",1,12,30.0
+"Push",2026-09-02,"Machine Shoulder Press",2,10,35.0
+"Push",2026-09-02,"Machine Shoulder Press",3,9,35.0
+"Push",2026-09-02,"Machine Crunch",1,16,120.0
+"Push",2026-09-02,"Machine Crunch",2,16,120.0
+"Push",2026-09-02,"Machine Crunch",3,14,120.0
+"Push",2026-09-02,"Machine Crunch",4,12,120.0
+"Pull",2026-08-26,"Seated Cable Row",1,12,55.0
+"Pull",2026-08-26,"Seated Cable Row",2,12,65.0
+"Pull",2026-08-26,"Seated Cable Row",3,10,70.0
+"Pull",2026-08-26,"Seated Cable Row",4,10,75.0
+"Pull",2026-08-26,"Reverse Pec Deck",1,12,30.0
+"Pull",2026-08-26,"Reverse Pec Deck",2,10,35.0
+"Pull",2026-08-26,"Reverse Pec Deck",3,10,35.0
+"Pull",2026-08-26,"Reverse Pec Deck",4,10,40.0
+"Pull",2026-08-26,"Wide-Grip Lat Pulldown",1,12,45.0
+"Pull",2026-08-26,"Wide-Grip Lat Pulldown",2,10,55.0
+"Pull",2026-08-26,"Wide-Grip Lat Pulldown",3,10,60.0
+"Pull",2026-08-26,"Wide-Grip Lat Pulldown",4,10,60.0
+"Pull",2026-08-26,"Face Pull",1,12,40.0
+"Pull",2026-08-26,"Face Pull",2,12,45.0
+"Pull",2026-08-26,"Face Pull",3,12,50.0
+"Pull",2026-08-26,"Dumbbell Hammer Curl",1,12,12.5
+"Pull",2026-08-26,"Dumbbell Hammer Curl",2,8,15.0
+"Pull",2026-08-26,"Dumbbell Hammer Curl",3,8,15.0
+"Pull",2026-08-26,"EZ-Bar Curl",1,12,25.0
+"Pull",2026-08-26,"EZ-Bar Curl",2,10,27.5
+"Pull",2026-08-26,"EZ-Bar Curl",3,12,27.5
+"Pull",2026-08-26,"Back Extension",1,12,15.0
+"Pull",2026-08-26,"Back Extension",2,12,20.0
+"Pull",2026-08-26,"Back Extension",3,12,25.0
+"Pull",2026-08-26,"Back Extension",4,12,25.0
+"Pull",2026-08-26,"Machine Crunch",1,14,120.0
+"Pull",2026-08-26,"Machine Crunch",2,14,120.0
+"Pull",2026-08-26,"Machine Crunch",3,14,120.0
+"Pull",2026-08-26,"Machine Crunch",4,14,120.0
+"Push",2026-08-24,"Seated Machine Chest Press",1,12,60.0
+"Push",2026-08-24,"Seated Machine Chest Press",2,10,70.0
+"Push",2026-08-24,"Seated Machine Chest Press",3,10,75.0
+"Push",2026-08-24,"Seated Machine Chest Press",4,8,80.0
+"Push",2026-08-24,"Incline Dumbbell Bench Press",1,12,17.5
+"Push",2026-08-24,"Incline Dumbbell Bench Press",2,12,17.5
+"Push",2026-08-24,"Incline Dumbbell Bench Press",3,10,20.0
+"Push",2026-08-24,"Pec Deck Fly",1,12,40.0
+"Push",2026-08-24,"Pec Deck Fly",2,10,45.0
+"Push",2026-08-24,"Pec Deck Fly",3,10,50.0
+"Push",2026-08-24,"Pec Deck Fly",4,10,55.0
+"Push",2026-08-24,"Triceps Rope Pushdown",1,12,45.0
+"Push",2026-08-24,"Triceps Rope Pushdown",2,12,50.0
+"Push",2026-08-24,"Triceps Rope Pushdown",3,12,55.0
+"Push",2026-08-24,"Triceps Rope Pushdown",4,8,60.0
+"Push",2026-08-24,"Machine Crunch",1,12,120.0
+"Push",2026-08-24,"Machine Crunch",2,12,120.0
+"Push",2026-08-24,"Machine Crunch",3,12,120.0
+"Push",2026-08-24,"Machine Crunch",4,12,120.0
+"Push",2026-08-24,"Machine Shoulder Press",1,12,30.0
+"Push",2026-08-24,"Machine Shoulder Press",2,10,35.0
+"Push",2026-08-24,"Machine Shoulder Press",3,8,40.0
+"Legs",2026-08-21,"Leg Press",1,12,130.0
+"Legs",2026-08-21,"Leg Press",2,10,140.0
+"Legs",2026-08-21,"Leg Press",3,10,150.0
+"Legs",2026-08-21,"Leg Press",4,10,160.0
+"Legs",2026-08-21,"Romanian Deadlift",1,12,40.0
+"Legs",2026-08-21,"Romanian Deadlift",2,12,50.0
+"Legs",2026-08-21,"Romanian Deadlift",3,12,55.0
+"Legs",2026-08-21,"Romanian Deadlift",4,12,55.0
+"Legs",2026-08-21,"Barbell Hip Thrust",1,12,100.0
+"Legs",2026-08-21,"Barbell Hip Thrust",2,12,110.0
+"Legs",2026-08-21,"Barbell Hip Thrust",3,12,120.0
+"Legs",2026-08-21,"Seated Leg Curl",1,12,70.0
+"Legs",2026-08-21,"Seated Leg Curl",2,12,80.0
+"Legs",2026-08-21,"Seated Leg Curl",3,12,85.0
+"Legs",2026-08-21,"Seated Leg Curl",4,10,90.0
+"Legs",2026-08-21,"Leg Extension",1,12,60.0
+"Legs",2026-08-21,"Leg Extension",2,12,70.0
+"Legs",2026-08-21,"Leg Extension",3,12,80.0
+"Legs",2026-08-21,"Leg Extension",4,10,85.0
+"Legs",2026-08-21,"Machine Crunch",1,12,115.0
+"Legs",2026-08-21,"Machine Crunch",2,12,120.0
+"Legs",2026-08-21,"Machine Crunch",3,12,120.0
+"Pull",2026-08-19,"Seated Cable Row",1,12,55.0
+"Pull",2026-08-19,"Seated Cable Row",2,10,65.0
+"Pull",2026-08-19,"Seated Cable Row",3,10,70.0
+"Pull",2026-08-19,"Seated Cable Row",4,8,75.0
+"Pull",2026-08-19,"Reverse Pec Deck",1,12,30.0
+"Pull",2026-08-19,"Reverse Pec Deck",2,10,35.0
+"Pull",2026-08-19,"Reverse Pec Deck",3,10,35.0
+"Pull",2026-08-19,"Reverse Pec Deck",4,10,35.0
+"Pull",2026-08-19,"Wide-Grip Lat Pulldown",1,12,45.0
+"Pull",2026-08-19,"Wide-Grip Lat Pulldown",2,10,55.0
+"Pull",2026-08-19,"Wide-Grip Lat Pulldown",3,10,60.0
+"Pull",2026-08-19,"Wide-Grip Lat Pulldown",4,8,60.0
+"Pull",2026-08-19,"Face Pull",1,12,40.0
+"Pull",2026-08-19,"Face Pull",2,12,45.0
+"Pull",2026-08-19,"Face Pull",3,12,45.0
+"Pull",2026-08-19,"Dumbbell Hammer Curl",1,12,12.5
+"Pull",2026-08-19,"Dumbbell Hammer Curl",2,12,12.5
+"Pull",2026-08-19,"Dumbbell Hammer Curl",3,10,12.5
+"Pull",2026-08-19,"EZ-Bar Curl",1,12,25.0
+"Pull",2026-08-19,"EZ-Bar Curl",2,10,27.5
+"Pull",2026-08-19,"EZ-Bar Curl",3,12,27.5
+"Pull",2026-08-19,"Back Extension",1,12,15.0
+"Pull",2026-08-19,"Back Extension",2,12,20.0
+"Pull",2026-08-19,"Back Extension",3,12,20.0
+"Pull",2026-08-19,"Back Extension",4,12,25.0
+"Pull",2026-08-19,"Machine Crunch",1,12,115.0
+"Pull",2026-08-19,"Machine Crunch",2,12,115.0
+"Pull",2026-08-19,"Machine Crunch",3,12,120.0
+"Push",2026-08-17,"Seated Machine Chest Press",1,16,50.0
+"Push",2026-08-17,"Seated Machine Chest Press",2,10,60.0
+"Push",2026-08-17,"Seated Machine Chest Press",3,10,70.0
+"Push",2026-08-17,"Seated Machine Chest Press",4,10,75.0
+"Push",2026-08-17,"Seated Machine Chest Press",5,10,75.0
+"Push",2026-08-17,"Incline Dumbbell Bench Press",1,12,15.0
+"Push",2026-08-17,"Incline Dumbbell Bench Press",2,12,17.5
+"Push",2026-08-17,"Incline Dumbbell Bench Press",3,12,17.5
+"Push",2026-08-17,"Pec Deck Fly",1,12,30.0
+"Push",2026-08-17,"Pec Deck Fly",2,10,40.0
+"Push",2026-08-17,"Pec Deck Fly",3,10,45.0
+"Push",2026-08-17,"Pec Deck Fly",4,10,50.0
+"Push",2026-08-17,"Pec Deck Fly",5,10,50.0
+"Push",2026-08-17,"Seated Dumbbell Shoulder Press",1,12,12.5
+"Push",2026-08-17,"Seated Dumbbell Shoulder Press",2,10,15.0
+"Push",2026-08-17,"Seated Dumbbell Shoulder Press",3,10,15.0
+"Push",2026-08-17,"Seated Dumbbell Shoulder Press",4,10,15.0
+"Push",2026-08-17,"Triceps Rope Pushdown",1,12,40.0
+"Push",2026-08-17,"Triceps Rope Pushdown",2,12,50.0
+"Push",2026-08-17,"Triceps Rope Pushdown",3,12,55.0
+"Push",2026-08-17,"Triceps Rope Pushdown",4,12,55.0
+"Push",2026-08-17,"Machine Crunch",1,12,115.0
+"Push",2026-08-17,"Machine Crunch",2,12,115.0
+"Push",2026-08-17,"Machine Crunch",3,12,115.0
+"Legs",2026-08-14,"Leg Press",1,10,130.0
+"Legs",2026-08-14,"Leg Press",2,10,140.0
+"Legs",2026-08-14,"Leg Press",3,10,150.0
+"Legs",2026-08-14,"Leg Press",4,10,150.0
+"Legs",2026-08-14,"Romanian Deadlift",1,12,40.0
+"Legs",2026-08-14,"Romanian Deadlift",2,12,50.0
+"Legs",2026-08-14,"Romanian Deadlift",3,12,55.0
+"Legs",2026-08-14,"Romanian Deadlift",4,12,55.0
+"Legs",2026-08-14,"Barbell Hip Thrust",1,12,100.0
+"Legs",2026-08-14,"Barbell Hip Thrust",2,12,110.0
+"Legs",2026-08-14,"Barbell Hip Thrust",3,12,115.0
+"Legs",2026-08-14,"Seated Leg Curl",1,12,70.0
+"Legs",2026-08-14,"Seated Leg Curl",2,12,75.0
+"Legs",2026-08-14,"Seated Leg Curl",3,12,85.0
+"Legs",2026-08-14,"Leg Extension",1,12,60.0
+"Legs",2026-08-14,"Leg Extension",2,12,70.0
+"Legs",2026-08-14,"Leg Extension",3,10,80.0
+"Legs",2026-08-14,"Machine Crunch",1,12,110.0
+"Legs",2026-08-14,"Machine Crunch",2,12,115.0
+"Legs",2026-08-14,"Machine Crunch",3,12,115.0
+"Legs",2026-08-14,"Dumbbell Goblet Squat",1,12,25.0
+"Legs",2026-08-14,"Dumbbell Goblet Squat",2,12,27.5
+"Legs",2026-08-14,"Dumbbell Goblet Squat",3,12,30.5
+"Pull",2026-08-12,"Seated Cable Row",1,12,55.0
+"Pull",2026-08-12,"Seated Cable Row",2,10,65.0
+"Pull",2026-08-12,"Seated Cable Row",3,10,70.0
+"Pull",2026-08-12,"Seated Cable Row",4,8,75.0
+"Pull",2026-08-12,"Reverse Pec Deck",1,12,30.0
+"Pull",2026-08-12,"Reverse Pec Deck",2,10,30.0
+"Pull",2026-08-12,"Reverse Pec Deck",3,10,35.0
+"Pull",2026-08-12,"Reverse Pec Deck",4,10,35.0
+"Pull",2026-08-12,"Wide-Grip Lat Pulldown",1,12,45.0
+"Pull",2026-08-12,"Wide-Grip Lat Pulldown",2,10,50.0
+"Pull",2026-08-12,"Wide-Grip Lat Pulldown",3,10,55.0
+"Pull",2026-08-12,"Wide-Grip Lat Pulldown",4,10,60.0
+"Pull",2026-08-12,"Face Pull",1,12,40.0
+"Pull",2026-08-12,"Face Pull",2,12,45.0
+"Pull",2026-08-12,"Face Pull",3,12,50.0
+"Pull",2026-08-12,"Dumbbell Hammer Curl",1,10,15.0
+"Pull",2026-08-12,"Dumbbell Hammer Curl",2,10,12.5
+"Pull",2026-08-12,"Dumbbell Hammer Curl",3,10,12.5
+"Pull",2026-08-12,"EZ-Bar Curl",1,12,20.0
+"Pull",2026-08-12,"EZ-Bar Curl",2,12,25.0
+"Pull",2026-08-12,"EZ-Bar Curl",3,12,27.5
+"Pull",2026-08-12,"Back Extension",1,12,10.0
+"Pull",2026-08-12,"Back Extension",2,12,15.0
+"Pull",2026-08-12,"Back Extension",3,12,20.0
+"Pull",2026-08-12,"Back Extension",4,10,25.0
+"Pull",2026-08-12,"Machine Crunch",1,12,110.0
+"Pull",2026-08-12,"Machine Crunch",2,12,110.0
+"Pull",2026-08-12,"Machine Crunch",3,12,115.0
+"Push",2026-08-10,"Seated Machine Chest Press",1,16,40.0
+"Push",2026-08-10,"Seated Machine Chest Press",2,10,60.0
+"Push",2026-08-10,"Seated Machine Chest Press",3,10,65.0
+"Push",2026-08-10,"Seated Machine Chest Press",4,10,70.0
+"Push",2026-08-10,"Seated Machine Chest Press",5,10,75.0
+"Push",2026-08-10,"Incline Dumbbell Bench Press",1,12,15.0
+"Push",2026-08-10,"Incline Dumbbell Bench Press",2,12,15.0
+"Push",2026-08-10,"Incline Dumbbell Bench Press",3,12,17.5
+"Push",2026-08-10,"Pec Deck Fly",1,12,30.0
+"Push",2026-08-10,"Pec Deck Fly",2,10,40.0
+"Push",2026-08-10,"Pec Deck Fly",3,10,45.0
+"Push",2026-08-10,"Pec Deck Fly",4,10,50.0
+"Push",2026-08-10,"Seated Dumbbell Shoulder Press",1,12,12.5
+"Push",2026-08-10,"Seated Dumbbell Shoulder Press",2,12,12.5
+"Push",2026-08-10,"Seated Dumbbell Shoulder Press",3,12,15.0
+"Push",2026-08-10,"Seated Dumbbell Shoulder Press",4,12,15.0
+"Push",2026-08-10,"Triceps Rope Pushdown",1,12,35.0
+"Push",2026-08-10,"Triceps Rope Pushdown",2,12,50.0
+"Push",2026-08-10,"Triceps Rope Pushdown",3,12,55.0
+"Push",2026-08-10,"Triceps Rope Pushdown",4,12,55.0
+"Push",2026-08-10,"Machine Crunch",1,12,110.0
+"Push",2026-08-10,"Machine Crunch",2,12,110.0
+"Push",2026-08-10,"Machine Crunch",3,12,115.0
+"Legs",2026-08-07,"Leg Press",1,12,130.0
+"Legs",2026-08-07,"Leg Press",2,12,140.0
+"Legs",2026-08-07,"Leg Press",3,12,140.0
+"Legs",2026-08-07,"Leg Press",4,10,150.0
+"Legs",2026-08-07,"Romanian Deadlift",1,12,40.0
+"Legs",2026-08-07,"Romanian Deadlift",2,12,50.0
+"Legs",2026-08-07,"Romanian Deadlift",3,12,55.0
+"Legs",2026-08-07,"Barbell Hip Thrust",1,12,90.0
+"Legs",2026-08-07,"Barbell Hip Thrust",2,12,110.0
+"Legs",2026-08-07,"Barbell Hip Thrust",3,12,110.0
+"Legs",2026-08-07,"Seated Leg Curl",1,12,70.0
+"Legs",2026-08-07,"Seated Leg Curl",2,12,75.0
+"Legs",2026-08-07,"Seated Leg Curl",3,10,85.0
+"Legs",2026-08-07,"Leg Extension",1,12,60.0
+"Legs",2026-08-07,"Leg Extension",2,12,70.0
+"Legs",2026-08-07,"Leg Extension",3,10,80.0
+"Legs",2026-08-07,"Machine Crunch",1,12,105.0
+"Legs",2026-08-07,"Machine Crunch",2,12,110.0
+"Legs",2026-08-07,"Machine Crunch",3,12,110.0
+"Legs",2026-08-07,"Dumbbell Goblet Squat",1,12,25.0
+"Legs",2026-08-07,"Dumbbell Goblet Squat",2,12,27.5
+"Legs",2026-08-07,"Dumbbell Goblet Squat",3,12,27.5
+"Pull",2026-08-05,"Seated Cable Row",1,12,55.0
+"Pull",2026-08-05,"Seated Cable Row",2,10,65.0
+"Pull",2026-08-05,"Seated Cable Row",3,10,70.0
+"Pull",2026-08-05,"Seated Cable Row",4,8,75.0
+"Pull",2026-08-05,"Reverse Pec Deck",1,12,25.0
+"Pull",2026-08-05,"Reverse Pec Deck",2,10,30.0
+"Pull",2026-08-05,"Reverse Pec Deck",3,10,30.0
+"Pull",2026-08-05,"Reverse Pec Deck",4,8,35.0
+"Pull",2026-08-05,"Wide-Grip Lat Pulldown",1,12,45.0
+"Pull",2026-08-05,"Wide-Grip Lat Pulldown",2,10,50.0
+"Pull",2026-08-05,"Wide-Grip Lat Pulldown",3,10,55.0
+"Pull",2026-08-05,"Wide-Grip Lat Pulldown",4,8,60.0
+"Pull",2026-08-05,"Face Pull",1,12,40.0
+"Pull",2026-08-05,"Face Pull",2,12,45.0
+"Pull",2026-08-05,"Face Pull",3,8,45.0
+"Pull",2026-08-05,"Dumbbell Hammer Curl",1,12,12.5
+"Pull",2026-08-05,"Dumbbell Hammer Curl",2,12,12.5
+"Pull",2026-08-05,"Dumbbell Hammer Curl",3,12,12.5
+"Pull",2026-08-05,"EZ-Bar Curl",1,12,20.0
+"Pull",2026-08-05,"EZ-Bar Curl",2,12,25.0
+"Pull",2026-08-05,"EZ-Bar Curl",3,12,25.0
+"Pull",2026-08-05,"Back Extension",1,12,10.0
+"Pull",2026-08-05,"Back Extension",2,12,15.0
+"Pull",2026-08-05,"Back Extension",3,12,20.0
+"Pull",2026-08-05,"Back Extension",4,12,20.0
+"Pull",2026-08-05,"Machine Crunch",1,12,105.0
+"Pull",2026-08-05,"Machine Crunch",2,12,105.0
+"Pull",2026-08-05,"Machine Crunch",3,12,110.0
+"Push",2026-08-03,"Barbell Bench Press",1,16,20.0
+"Push",2026-08-03,"Barbell Bench Press",2,10,50.0
+"Push",2026-08-03,"Barbell Bench Press",3,10,60.0
+"Push",2026-08-03,"Barbell Bench Press",4,10,70.0
+"Push",2026-08-03,"Barbell Bench Press",5,10,70.0
+"Push",2026-08-03,"Pec Deck Fly",1,12,30.0
+"Push",2026-08-03,"Pec Deck Fly",2,10,40.0
+"Push",2026-08-03,"Pec Deck Fly",3,10,45.0
+"Push",2026-08-03,"Pec Deck Fly",4,10,45.0
+"Push",2026-08-03,"Incline Dumbbell Bench Press",1,12,15.0
+"Push",2026-08-03,"Incline Dumbbell Bench Press",2,12,15.0
+"Push",2026-08-03,"Incline Dumbbell Bench Press",3,12,15.0
+"Push",2026-08-03,"Seated Dumbbell Shoulder Press",1,12,10.0
+"Push",2026-08-03,"Seated Dumbbell Shoulder Press",2,12,12.5
+"Push",2026-08-03,"Seated Dumbbell Shoulder Press",3,12,12.5
+"Push",2026-08-03,"Seated Dumbbell Shoulder Press",4,12,12.5
+"Push",2026-08-03,"Triceps Rope Pushdown",1,12,35.0
+"Push",2026-08-03,"Triceps Rope Pushdown",2,12,45.0
+"Push",2026-08-03,"Triceps Rope Pushdown",3,12,50.0
+"Push",2026-08-03,"Triceps Rope Pushdown",4,12,55.0
+"Push",2026-08-03,"Machine Crunch",1,12,105.0
+"Push",2026-08-03,"Machine Crunch",2,12,105.0
+"Push",2026-08-03,"Machine Crunch",3,12,105.0
+"Legs",2026-07-31,"Leg Press",1,10,130.0
+"Legs",2026-07-31,"Leg Press",2,10,140.0
+"Legs",2026-07-31,"Leg Press",3,10,140.0
+"Legs",2026-07-31,"Leg Press",4,10,150.0
+"Legs",2026-07-31,"Romanian Deadlift",1,12,35.0
+"Legs",2026-07-31,"Romanian Deadlift",2,12,45.0
+"Legs",2026-07-31,"Romanian Deadlift",3,12,50.0
+"Legs",2026-07-31,"Romanian Deadlift",4,12,50.0
+"Legs",2026-07-31,"Barbell Hip Thrust",1,12,90.0
+"Legs",2026-07-31,"Barbell Hip Thrust",2,12,100.0
+"Legs",2026-07-31,"Barbell Hip Thrust",3,12,110.0
+"Legs",2026-07-31,"Seated Leg Curl",1,12,70.0
+"Legs",2026-07-31,"Seated Leg Curl",2,10,75.0
+"Legs",2026-07-31,"Seated Leg Curl",3,10,85.0
+"Legs",2026-07-31,"Leg Extension",1,12,60.0
+"Legs",2026-07-31,"Leg Extension",2,10,70.0
+"Legs",2026-07-31,"Leg Extension",3,10,80.0
+"Legs",2026-07-31,"Machine Crunch",1,12,100.0
+"Legs",2026-07-31,"Machine Crunch",2,12,105.0
+"Legs",2026-07-31,"Machine Crunch",3,12,105.0
+"Pull",2026-07-29,"Seated Cable Row",1,10,55.0
+"Pull",2026-07-29,"Seated Cable Row",2,10,65.0
+"Pull",2026-07-29,"Seated Cable Row",3,10,70.0
+"Pull",2026-07-29,"Seated Cable Row",4,10,70.0
+"Pull",2026-07-29,"Reverse Pec Deck",1,10,25.0
+"Pull",2026-07-29,"Reverse Pec Deck",2,10,25.0
+"Pull",2026-07-29,"Reverse Pec Deck",3,12,25.0
+"Pull",2026-07-29,"Wide-Grip Lat Pulldown",1,10,45.0
+"Pull",2026-07-29,"Wide-Grip Lat Pulldown",2,10,50.0
+"Pull",2026-07-29,"Wide-Grip Lat Pulldown",3,10,55.0
+"Pull",2026-07-29,"Wide-Grip Lat Pulldown",4,10,55.0
+"Pull",2026-07-29,"Face Pull",1,12,35.0
+"Pull",2026-07-29,"Face Pull",2,12,40.0
+"Pull",2026-07-29,"Face Pull",3,12,45.0
+"Pull",2026-07-29,"Dumbbell Hammer Curl",1,12,10.0
+"Pull",2026-07-29,"Dumbbell Hammer Curl",2,12,10.0
+"Pull",2026-07-29,"Dumbbell Hammer Curl",3,12,10.0
+"Pull",2026-07-29,"EZ-Bar Curl",1,12,20.0
+"Pull",2026-07-29,"EZ-Bar Curl",2,12,23.0
+"Pull",2026-07-29,"EZ-Bar Curl",3,12,25.0
+"Pull",2026-07-29,"Back Extension",1,12,5.0
+"Pull",2026-07-29,"Back Extension",2,12,10.0
+"Pull",2026-07-29,"Back Extension",3,12,15.0
+"Pull",2026-07-29,"Back Extension",4,12,20.0
+"Pull",2026-07-29,"Machine Crunch",1,12,100.0
+"Pull",2026-07-29,"Machine Crunch",2,12,100.0
+"Pull",2026-07-29,"Machine Crunch",3,16,100.0
+"Push",2026-07-27,"Barbell Bench Press",1,16,20.0
+"Push",2026-07-27,"Barbell Bench Press",2,10,50.0
+"Push",2026-07-27,"Barbell Bench Press",3,10,60.0
+"Push",2026-07-27,"Barbell Bench Press",4,10,70.0
+"Push",2026-07-27,"Barbell Bench Press",5,10,70.0
+"Push",2026-07-27,"Pec Deck Fly",1,12,30.0
+"Push",2026-07-27,"Pec Deck Fly",2,10,35.0
+"Push",2026-07-27,"Pec Deck Fly",3,10,40.0
+"Push",2026-07-27,"Pec Deck Fly",4,10,45.0
+"Push",2026-07-27,"Incline Barbell Bench Press",1,12,30.0
+"Push",2026-07-27,"Incline Barbell Bench Press",2,10,40.0
+"Push",2026-07-27,"Incline Barbell Bench Press",3,4,50.0
+"Push",2026-07-27,"Incline Barbell Bench Press",4,10,50.0
+"Push",2026-07-27,"Seated Dumbbell Shoulder Press",1,12,10.0
+"Push",2026-07-27,"Seated Dumbbell Shoulder Press",2,10,12.5
+"Push",2026-07-27,"Seated Dumbbell Shoulder Press",3,10,12.5
+"Push",2026-07-27,"Seated Dumbbell Shoulder Press",4,10,15.5
+"Push",2026-07-27,"Triceps Rope Pushdown",1,12,35.0
+"Push",2026-07-27,"Triceps Rope Pushdown",2,12,45.0
+"Push",2026-07-27,"Triceps Rope Pushdown",3,12,50.0
+"Push",2026-07-27,"Triceps Rope Pushdown",4,8,55.0
+"Push",2026-07-27,"Machine Crunch",1,12,100.0
+"Push",2026-07-27,"Machine Crunch",2,12,100.0
+"Push",2026-07-27,"Machine Crunch",3,12,100.0
+"Legs",2026-07-24,"Leg Press",1,10,120.0
+"Legs",2026-07-24,"Leg Press",2,10,130.0
+"Legs",2026-07-24,"Leg Press",3,10,140.0
+"Legs",2026-07-24,"Leg Press",4,10,140.0
+"Legs",2026-07-24,"Leg Press",5,10,140.0
+"Legs",2026-07-24,"Romanian Deadlift",1,12,35.0
+"Legs",2026-07-24,"Romanian Deadlift",2,12,45.0
+"Legs",2026-07-24,"Romanian Deadlift",3,12,50.0
+"Legs",2026-07-24,"Barbell Hip Thrust",1,12,90.0
+"Legs",2026-07-24,"Barbell Hip Thrust",2,12,90.0
+"Legs",2026-07-24,"Barbell Hip Thrust",3,12,100.0
+"Legs",2026-07-24,"Barbell Hip Thrust",4,12,100.0
+"Legs",2026-07-24,"Seated Leg Curl",1,12,65.0
+"Legs",2026-07-24,"Seated Leg Curl",2,10,75.0
+"Legs",2026-07-24,"Seated Leg Curl",3,10,85.0
+"Legs",2026-07-24,"Seated Leg Curl",4,10,85.0
+"Legs",2026-07-24,"Leg Extension",1,12,60.0
+"Legs",2026-07-24,"Leg Extension",2,10,60.0
+"Legs",2026-07-24,"Leg Extension",3,10,75.0
+"Legs",2026-07-24,"Leg Extension",4,10,80.0
+"Pull",2026-07-22,"Seated Cable Row",1,10,55.0
+"Pull",2026-07-22,"Seated Cable Row",2,10,65.0
+"Pull",2026-07-22,"Seated Cable Row",3,10,65.0
+"Pull",2026-07-22,"Seated Cable Row",4,10,70.0
+"Pull",2026-07-22,"Reverse Pec Deck",1,10,25.0
+"Pull",2026-07-22,"Reverse Pec Deck",2,8,25.0
+"Pull",2026-07-22,"Reverse Pec Deck",3,9,30.0
+"Pull",2026-07-22,"Wide-Grip Lat Pulldown",1,10,45.0
+"Pull",2026-07-22,"Wide-Grip Lat Pulldown",2,10,50.0
+"Pull",2026-07-22,"Wide-Grip Lat Pulldown",3,10,55.0
+"Pull",2026-07-22,"Face Pull",1,12,35.0
+"Pull",2026-07-22,"Face Pull",2,12,40.0
+"Pull",2026-07-22,"Face Pull",3,12,45.0
+"Pull",2026-07-22,"Dumbbell Hammer Curl",1,12,10.0
+"Pull",2026-07-22,"Dumbbell Hammer Curl",2,12,10.0
+"Pull",2026-07-22,"Dumbbell Hammer Curl",3,10,10.0
+"Pull",2026-07-22,"EZ-Bar Curl",1,10,20.0
+"Pull",2026-07-22,"EZ-Bar Curl",2,10,23.0
+"Pull",2026-07-22,"EZ-Bar Curl",3,12,23.0
+"Pull",2026-07-22,"Back Extension",1,12,5.0
+"Pull",2026-07-22,"Back Extension",2,12,10.0
+"Pull",2026-07-22,"Back Extension",3,10,15.0
+"Pull",2026-07-22,"Back Extension",4,12,15.0
+"Pull",2026-07-22,"Machine Crunch",1,12,95.0
+"Pull",2026-07-22,"Machine Crunch",2,12,95.0
+"Push",2026-07-20,"Seated Machine Chest Press",1,12,40.0
+"Push",2026-07-20,"Seated Machine Chest Press",2,10,50.0
+"Push",2026-07-20,"Seated Machine Chest Press",3,10,60.0
+"Push",2026-07-20,"Seated Machine Chest Press",4,10,70.0
+"Push",2026-07-20,"Seated Machine Chest Press",5,10,70.0
+"Push",2026-07-20,"Pec Deck Fly",1,10,30.0
+"Push",2026-07-20,"Pec Deck Fly",2,10,35.0
+"Push",2026-07-20,"Pec Deck Fly",3,10,40.0
+"Push",2026-07-20,"Pec Deck Fly",4,10,45.0
+"Push",2026-07-20,"Pec Deck Fly",5,10,45.0
+"Push",2026-07-20,"Seated Dumbbell Shoulder Press",1,10,10.0
+"Push",2026-07-20,"Seated Dumbbell Shoulder Press",2,10,12.5
+"Push",2026-07-20,"Seated Dumbbell Shoulder Press",3,10,12.5
+"Push",2026-07-20,"Seated Dumbbell Shoulder Press",4,10,12.5
+"Push",2026-07-20,"Seated Dumbbell Shoulder Press",5,10,12.5
+"Push",2026-07-20,"Triceps Rope Pushdown",1,12,35.0
+"Push",2026-07-20,"Triceps Rope Pushdown",2,12,45.0
+"Push",2026-07-20,"Triceps Rope Pushdown",3,12,55.0
+"Push",2026-07-20,"Dumbbell Lateral Raise",1,12,5.0
+"Push",2026-07-20,"Dumbbell Lateral Raise",2,12,6.0
+"Push",2026-07-20,"Dumbbell Lateral Raise",3,12,6.0
+"Push",2026-07-20,"Machine Crunch",1,12,95.0
+"Push",2026-07-20,"Machine Crunch",2,12,95.0
+"Push",2026-07-20,"Machine Crunch",3,12,95.0
+"Legs",2026-07-17,"Leg Press",1,10,110.0
+"Legs",2026-07-17,"Leg Press",2,10,130.0
+"Legs",2026-07-17,"Leg Press",3,10,130.0
+"Legs",2026-07-17,"Leg Press",4,10,140.0
+"Legs",2026-07-17,"Leg Press",5,10,140.0
+"Legs",2026-07-17,"Leg Extension",1,10,60.0
+"Legs",2026-07-17,"Leg Extension",2,10,70.0
+"Legs",2026-07-17,"Leg Extension",3,10,75.0
+"Legs",2026-07-17,"Leg Extension",4,10,80.0
+"Legs",2026-07-17,"Seated Leg Curl",1,10,65.0
+"Legs",2026-07-17,"Seated Leg Curl",2,10,75.0
+"Legs",2026-07-17,"Seated Leg Curl",3,10,85.0
+"Legs",2026-07-17,"Seated Leg Curl",4,10,85.0
+"Legs",2026-07-17,"Romanian Deadlift",1,12,35.0
+"Legs",2026-07-17,"Romanian Deadlift",2,12,45.0
+"Legs",2026-07-17,"Romanian Deadlift",3,12,45.0
+"Legs",2026-07-17,"Barbell Hip Thrust",1,12,80.0
+"Legs",2026-07-17,"Barbell Hip Thrust",2,12,80.0
+"Legs",2026-07-17,"Barbell Hip Thrust",3,12,90.0
+"Legs",2026-07-17,"Barbell Hip Thrust",4,12,90.0
+"Legs",2026-07-17,"Dumbbell Goblet Squat",1,12,25.0
+"Legs",2026-07-17,"Dumbbell Goblet Squat",2,12,27.5
+"Legs",2026-07-17,"Dumbbell Goblet Squat",3,12,27.5
+"Legs",2026-07-17,"Machine Crunch",1,12,90.0
+"Legs",2026-07-17,"Machine Crunch",2,12,95.0
+"Legs",2026-07-17,"Machine Crunch",3,12,95.0
+"Pull",2026-07-15,"Seated Cable Row",1,10,55.0
+"Pull",2026-07-15,"Seated Cable Row",2,10,65.0
+"Pull",2026-07-15,"Seated Cable Row",3,10,65.0
+"Pull",2026-07-15,"Seated Cable Row",4,10,70.0
+"Pull",2026-07-15,"Wide-Grip Lat Pulldown",1,10,45.0
+"Pull",2026-07-15,"Wide-Grip Lat Pulldown",2,10,50.0
+"Pull",2026-07-15,"Wide-Grip Lat Pulldown",3,10,55.0
+"Pull",2026-07-15,"Wide-Grip Lat Pulldown",4,8,55.0
+"Pull",2026-07-15,"Reverse Pec Deck",1,10,30.0
+"Pull",2026-07-15,"Reverse Pec Deck",2,8,30.0
+"Pull",2026-07-15,"Reverse Pec Deck",3,8,25.0
+"Pull",2026-07-15,"Face Pull",1,12,35.0
+"Pull",2026-07-15,"Face Pull",2,12,40.0
+"Pull",2026-07-15,"Face Pull",3,12,45.0
+"Pull",2026-07-15,"Face Pull",4,12,45.0
+"Pull",2026-07-15,"EZ-Bar Curl",1,10,20.0
+"Pull",2026-07-15,"EZ-Bar Curl",2,10,25.0
+"Pull",2026-07-15,"EZ-Bar Curl",3,6,25.0
+"Pull",2026-07-15,"Dumbbell Hammer Curl",1,10,9.0
+"Pull",2026-07-15,"Dumbbell Hammer Curl",2,10,9.0
+"Pull",2026-07-15,"Dumbbell Hammer Curl",3,10,9.0
+"Pull",2026-07-15,"Back Extension",1,12,5.0
+"Pull",2026-07-15,"Back Extension",2,12,10.0
+"Pull",2026-07-15,"Back Extension",3,10,15.0
+"Pull",2026-07-15,"Back Extension",4,12,15.0
+"Pull",2026-07-15,"Machine Crunch",1,12,90.0
+"Pull",2026-07-15,"Machine Crunch",2,12,90.0
+"Pull",2026-07-15,"Machine Crunch",3,12,95.0
+"Push",2026-07-13,"Barbell Bench Press",1,10,20.0
+"Push",2026-07-13,"Barbell Bench Press",2,10,50.0
+"Push",2026-07-13,"Barbell Bench Press",3,10,60.0
+"Push",2026-07-13,"Barbell Bench Press",4,10,70.0
+"Push",2026-07-13,"Barbell Bench Press",5,6,70.0
+"Push",2026-07-13,"Barbell Bench Press",6,6,70.0
+"Push",2026-07-13,"Pec Deck Fly",1,10,30.0
+"Push",2026-07-13,"Pec Deck Fly",2,10,35.0
+"Push",2026-07-13,"Pec Deck Fly",3,10,40.0
+"Push",2026-07-13,"Pec Deck Fly",4,10,45.0
+"Push",2026-07-13,"Seated Dumbbell Shoulder Press",1,10,10.0
+"Push",2026-07-13,"Seated Dumbbell Shoulder Press",2,10,10.0
+"Push",2026-07-13,"Seated Dumbbell Shoulder Press",3,10,12.5
+"Push",2026-07-13,"Seated Dumbbell Shoulder Press",4,10,12.5
+"Push",2026-07-13,"Triceps Rope Pushdown",1,12,35.0
+"Push",2026-07-13,"Triceps Rope Pushdown",2,12,45.0
+"Push",2026-07-13,"Triceps Rope Pushdown",3,12,55.0
+"Push",2026-07-13,"Dumbbell Lateral Raise",1,12,5.0
+"Push",2026-07-13,"Dumbbell Lateral Raise",2,12,5.0
+"Push",2026-07-13,"Dumbbell Lateral Raise",3,12,6.0
+"Push",2026-07-13,"Machine Crunch",1,12,90.0
+"Push",2026-07-13,"Machine Crunch",2,12,90.0
+"Push",2026-07-13,"Machine Crunch",3,12,90.0
+"Legs",2026-07-11,"Leg Press",1,10,110.0
+"Legs",2026-07-11,"Leg Press",2,10,120.0
+"Legs",2026-07-11,"Leg Press",3,10,130.0
+"Legs",2026-07-11,"Leg Press",4,10,140.0
+"Legs",2026-07-11,"Leg Press",5,10,140.0
+"Legs",2026-07-11,"Leg Extension",1,10,60.0
+"Legs",2026-07-11,"Leg Extension",2,10,70.0
+"Legs",2026-07-11,"Leg Extension",3,10,75.0
+"Legs",2026-07-11,"Leg Extension",4,10,80.0
+"Legs",2026-07-11,"Seated Leg Curl",1,10,65.0
+"Legs",2026-07-11,"Seated Leg Curl",2,10,75.0
+"Legs",2026-07-11,"Seated Leg Curl",3,10,80.0
+"Legs",2026-07-11,"Seated Leg Curl",4,10,85.0
+"Legs",2026-07-11,"Romanian Deadlift",1,10,35.0
+"Legs",2026-07-11,"Romanian Deadlift",2,10,40.0
+"Legs",2026-07-11,"Romanian Deadlift",3,10,45.0
+"Legs",2026-07-11,"Dumbbell Goblet Squat",1,10,25.0
+"Legs",2026-07-11,"Dumbbell Goblet Squat",2,10,25.0
+"Legs",2026-07-11,"Dumbbell Goblet Squat",3,10,27.5
+"Legs",2026-07-11,"Back Extension",1,10,5.0
+"Legs",2026-07-11,"Back Extension",2,10,10.0
+"Legs",2026-07-11,"Back Extension",3,10,15.0
+"Legs",2026-07-11,"Back Extension",4,10,20.0
+"Legs",2026-07-11,"Back Extension",5,10,20.0
+"Legs",2026-07-11,"Machine Crunch",1,12,85.0
+"Legs",2026-07-11,"Machine Crunch",2,12,90.0
+"Legs",2026-07-11,"Machine Crunch",3,12,90.0
+"Upper body",2026-07-09,"Barbell Bench Press",1,12,50.0
+"Upper body",2026-07-09,"Barbell Bench Press",2,10,60.0
+"Upper body",2026-07-09,"Barbell Bench Press",3,10,65.0
+"Upper body",2026-07-09,"Seated Machine Chest Press",1,8,70.0
+"Upper body",2026-07-09,"Seated Machine Chest Press",2,6,70.0
+"Upper body",2026-07-09,"Seated Cable Row",1,10,50.0
+"Upper body",2026-07-09,"Seated Cable Row",2,10,60.0
+"Upper body",2026-07-09,"Seated Cable Row",3,10,65.0
+"Upper body",2026-07-09,"Seated Cable Row",4,10,65.0
+"Upper body",2026-07-09,"Wide-Grip Lat Pulldown",1,10,45.0
+"Upper body",2026-07-09,"Wide-Grip Lat Pulldown",2,10,50.0
+"Upper body",2026-07-09,"Wide-Grip Lat Pulldown",3,10,55.0
+"Upper body",2026-07-09,"Machine Shoulder Press",1,10,30.0
+"Upper body",2026-07-09,"Machine Shoulder Press",2,10,35.0
+"Upper body",2026-07-09,"Machine Shoulder Press",3,8,40.0
+"Upper body",2026-07-09,"Face Pull",1,12,35.0
+"Upper body",2026-07-09,"Face Pull",2,12,40.0
+"Upper body",2026-07-09,"Face Pull",3,12,45.0
+"Upper body",2026-07-09,"Machine Crunch",1,12,80.0
+"Upper body",2026-07-09,"Machine Crunch",2,12,90.0
+"Upper body",2026-07-09,"Machine Crunch",3,12,90.0
+"Legs",2026-07-07,"Leg Press",1,16,100.0
+"Legs",2026-07-07,"Leg Press",2,10,110.0
+"Legs",2026-07-07,"Leg Press",3,10,120.0
+"Legs",2026-07-07,"Leg Press",4,10,130.0
+"Legs",2026-07-07,"Leg Press",5,10,140.0
+"Legs",2026-07-07,"Leg Extension",1,10,60.0
+"Legs",2026-07-07,"Leg Extension",2,10,70.0
+"Legs",2026-07-07,"Leg Extension",3,10,75.0
+"Legs",2026-07-07,"Leg Extension",4,6,80.0
+"Legs",2026-07-07,"Seated Leg Curl",1,10,60.0
+"Legs",2026-07-07,"Seated Leg Curl",2,10,70.0
+"Legs",2026-07-07,"Seated Leg Curl",3,10,80.0
+"Legs",2026-07-07,"Seated Leg Curl",4,10,80.0
+"Legs",2026-07-07,"Romanian Deadlift",1,10,30.0
+"Legs",2026-07-07,"Romanian Deadlift",2,10,40.0
+"Legs",2026-07-07,"Romanian Deadlift",3,10,40.0
+"Legs",2026-07-07,"Dumbbell Goblet Squat",1,10,22.5
+"Legs",2026-07-07,"Dumbbell Goblet Squat",2,10,25.0
+"Legs",2026-07-07,"Dumbbell Goblet Squat",3,10,25.0
+"Legs",2026-07-07,"Back Extension",1,10,5.0
+"Legs",2026-07-07,"Back Extension",2,10,10.0
+"Legs",2026-07-07,"Back Extension",3,10,15.0
+"Legs",2026-07-07,"Back Extension",4,10,20.0
+"Legs",2026-07-07,"Machine Crunch",1,12,85.0
+"Legs",2026-07-07,"Machine Crunch",2,12,85.0
+"Legs",2026-07-07,"Machine Crunch",3,12,90.0
+"Upper body",2026-07-03,"Seated Machine Chest Press",1,12,50.0
+"Upper body",2026-07-03,"Seated Machine Chest Press",2,12,60.0
+"Upper body",2026-07-03,"Seated Machine Chest Press",3,12,65.0
+"Upper body",2026-07-03,"Seated Machine Chest Press",4,12,70.0
+"Upper body",2026-07-03,"Seated Machine Chest Press",5,8,75.0
+"Upper body",2026-07-03,"Seated Cable Row",1,12,40.0
+"Upper body",2026-07-03,"Seated Cable Row",2,10,50.0
+"Upper body",2026-07-03,"Seated Cable Row",3,10,55.0
+"Upper body",2026-07-03,"Seated Cable Row",4,10,60.0
+"Upper body",2026-07-03,"Seated Cable Row",5,8,65.0
+"Upper body",2026-07-03,"Neutral-Grip Pull-Up",1,10,45.0
+"Upper body",2026-07-03,"Neutral-Grip Pull-Up",2,10,50.0
+"Upper body",2026-07-03,"Neutral-Grip Pull-Up",3,10,55.0
+"Upper body",2026-07-03,"Back Extension",1,10,0.0
+"Upper body",2026-07-03,"Back Extension",2,10,5.0
+"Upper body",2026-07-03,"Back Extension",3,10,10.0
+"Upper body",2026-07-03,"Back Extension",4,10,15.0
+"Upper body",2026-07-03,"Machine Crunch",1,12,80.0
+"Upper body",2026-07-03,"Machine Crunch",2,12,85.0
+"Upper body",2026-07-03,"Machine Crunch",3,12,85.0
+"Legs",2026-07-01,"Leg Press",1,10,100.0
+"Legs",2026-07-01,"Leg Press",2,10,110.0
+"Legs",2026-07-01,"Leg Press",3,10,120.0
+"Legs",2026-07-01,"Leg Press",4,10,130.0
+"Legs",2026-07-01,"Leg Press",5,10,140.0
+"Legs",2026-07-01,"Seated Leg Curl",1,10,60.0
+"Legs",2026-07-01,"Seated Leg Curl",2,10,70.0
+"Legs",2026-07-01,"Seated Leg Curl",3,10,75.0
+"Legs",2026-07-01,"Seated Leg Curl",4,10,80.0
+"Legs",2026-07-01,"Leg Extension",1,10,50.0
+"Legs",2026-07-01,"Leg Extension",2,10,60.0
+"Legs",2026-07-01,"Leg Extension",3,10,65.0
+"Legs",2026-07-01,"Dumbbell Goblet Squat",1,10,17.5
+"Legs",2026-07-01,"Dumbbell Goblet Squat",2,10,22.5
+"Legs",2026-07-01,"Dumbbell Goblet Squat",3,10,25.0
+"Legs",2026-07-01,"Romanian Deadlift",1,10,30.0
+"Legs",2026-07-01,"Romanian Deadlift",2,10,35.0
+"Legs",2026-07-01,"Romanian Deadlift",3,10,40.0
+"Legs",2026-07-01,"Back Extension",1,10,5.0
+"Legs",2026-07-01,"Back Extension",2,10,10.0
+"Legs",2026-07-01,"Back Extension",3,10,15.0
+"Legs",2026-07-01,"Back Extension",4,10,20.0
+"Legs",2026-07-01,"Machine Crunch",1,12,80.0
+"Legs",2026-07-01,"Machine Crunch",2,12,80.0
+"Legs",2026-07-01,"Machine Crunch",3,12,85.0
+"Push",2026-06-29,"Seated Machine Chest Press",1,16,30.0
+"Push",2026-06-29,"Seated Machine Chest Press",2,10,50.0
+"Push",2026-06-29,"Seated Machine Chest Press",3,10,60.0
+"Push",2026-06-29,"Seated Machine Chest Press",4,10,65.0
+"Push",2026-06-29,"Seated Machine Chest Press",5,12,70.0
+"Push",2026-06-29,"Seated Cable Row",1,12,45.0
+"Push",2026-06-29,"Seated Cable Row",2,10,50.0
+"Push",2026-06-29,"Seated Cable Row",3,10,55.0
+"Push",2026-06-29,"Seated Cable Row",4,10,60.0
+"Push",2026-06-29,"Wide-Grip Lat Pulldown",1,10,45.0
+"Push",2026-06-29,"Wide-Grip Lat Pulldown",2,10,50.0
+"Push",2026-06-29,"Wide-Grip Lat Pulldown",3,10,55.0
+"Push",2026-06-29,"Machine Shoulder Press",1,10,30.0
+"Push",2026-06-29,"Machine Shoulder Press",2,10,40.0
+"Push",2026-06-29,"Machine Shoulder Press",3,8,40.0
+"Push",2026-06-29,"Back Extension",1,10,0.0
+"Push",2026-06-29,"Back Extension",2,10,5.0
+"Push",2026-06-29,"Back Extension",3,10,10.0
+"Push",2026-06-29,"Back Extension",4,10,15.0
+"Push",2026-06-29,"Face Pull",1,12,35.0
+"Push",2026-06-29,"Face Pull",2,12,40.0
+"Push",2026-06-29,"Face Pull",3,12,45.0
+"Push",2026-06-29,"Machine Crunch",1,12,70.0
+"Push",2026-06-29,"Machine Crunch",2,12,80.0
+"Push",2026-06-29,"Machine Crunch",3,12,80.0
+"Legs",2026-06-26,"Leg Press",1,10,100.0
+"Legs",2026-06-26,"Leg Press",2,10,110.0
+"Legs",2026-06-26,"Leg Press",3,10,120.0
+"Legs",2026-06-26,"Leg Press",4,10,130.0
+"Legs",2026-06-26,"Seated Leg Curl",1,10,60.0
+"Legs",2026-06-26,"Seated Leg Curl",2,10,70.0
+"Legs",2026-06-26,"Seated Leg Curl",3,10,75.0
+"Legs",2026-06-26,"Leg Extension",1,10,60.0
+"Legs",2026-06-26,"Leg Extension",2,10,70.0
+"Legs",2026-06-26,"Leg Extension",3,10,75.0
+"Legs",2026-06-26,"Machine Crunch",1,12,80.0
+"Legs",2026-06-26,"Machine Crunch",2,12,80.0
+"Legs",2026-06-26,"Machine Crunch",3,12,80.0
+"Legs",2026-06-26,"Dumbbell Goblet Squat",1,10,15.0
+"Legs",2026-06-26,"Dumbbell Goblet Squat",2,10,17.5
+"Legs",2026-06-26,"Dumbbell Goblet Squat",3,10,22.5
+"Upper body",2026-06-22,"Barbell Bench Press",1,10,40.0
+"Upper body",2026-06-22,"Barbell Bench Press",2,10,50.0
+"Upper body",2026-06-22,"Barbell Bench Press",3,10,60.0
+"Upper body",2026-06-22,"Seated Cable Row",1,10,45.0
+"Upper body",2026-06-22,"Seated Cable Row",2,10,50.0
+"Upper body",2026-06-22,"Seated Cable Row",3,10,55.0
+"Upper body",2026-06-22,"Seated Cable Row",4,10,60.0
+"Upper body",2026-06-22,"Wide-Grip Lat Pulldown",1,10,45.0
+"Upper body",2026-06-22,"Wide-Grip Lat Pulldown",2,10,50.0
+"Upper body",2026-06-22,"Wide-Grip Lat Pulldown",3,10,55.0
+"Upper body",2026-06-22,"Machine Shoulder Press",1,10,20.0
+"Upper body",2026-06-22,"Machine Shoulder Press",2,10,30.0
+"Upper body",2026-06-22,"Machine Shoulder Press",3,10,35.0
+"Upper body",2026-06-22,"Machine Shoulder Press",4,10,35.0
+"Upper body",2026-06-22,"Face Pull",1,10,35.0
+"Upper body",2026-06-22,"Face Pull",2,10,35.0
+"Upper body",2026-06-22,"Face Pull",3,10,40.0
+"Upper body",2026-06-22,"Back Extension",1,10,0.0
+"Upper body",2026-06-22,"Back Extension",2,10,10.0
+"Upper body",2026-06-22,"Back Extension",3,10,10.0
+"Upper body",2026-06-22,"Machine Crunch",1,10,70.0
+"Upper body",2026-06-22,"Machine Crunch",2,10,75.0
+"Upper body",2026-06-22,"Machine Crunch",3,10,80.0
+"Upper body",2026-06-22,"Machine Crunch",4,10,80.0
+"Legs",2026-06-15,"Leg Press",1,10,100.0
+"Legs",2026-06-15,"Leg Press",2,10,110.0
+"Legs",2026-06-15,"Leg Press",3,10,120.0
+"Legs",2026-06-15,"Leg Press",4,10,130.0
+"Legs",2026-06-15,"Leg Press",5,10,140.0
+"Legs",2026-06-15,"Seated Leg Curl",1,10,60.0
+"Legs",2026-06-15,"Seated Leg Curl",2,10,70.0
+"Legs",2026-06-15,"Seated Leg Curl",3,10,75.0
+"Legs",2026-06-15,"Seated Leg Curl",4,10,80.0
+"Legs",2026-06-15,"Dumbbell Goblet Squat",1,10,15.0
+"Legs",2026-06-15,"Dumbbell Goblet Squat",2,10,17.5
+"Legs",2026-06-15,"Dumbbell Goblet Squat",3,10,20.0
+"Legs",2026-06-15,"Back Extension",1,10,0.0
+"Legs",2026-06-15,"Back Extension",2,10,5.0
+"Legs",2026-06-15,"Back Extension",3,10,10.0
+"Legs",2026-06-15,"Back Extension",4,10,10.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Pec Deck Fly",1,10,30.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Pec Deck Fly",2,10,35.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Pec Deck Fly",3,10,40.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Pec Deck Fly",4,10,45.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Wide-Grip Lat Pulldown",1,10,45.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Wide-Grip Lat Pulldown",2,10,50.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Wide-Grip Lat Pulldown",3,10,55.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Wide-Grip Lat Pulldown",4,10,55.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Incline Dumbbell Bench Press",1,10,10.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Incline Dumbbell Bench Press",2,12,12.5
+"Fri, Jun 12 · 11:06",2026-06-12,"Incline Dumbbell Bench Press",3,12,15.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Incline Dumbbell Bench Press",4,10,17.5
+"Fri, Jun 12 · 11:06",2026-06-12,"Preacher Curl",1,10,20.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Preacher Curl",2,10,22.5
+"Fri, Jun 12 · 11:06",2026-06-12,"Preacher Curl",3,10,25.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Reverse-Grip Cable Pushdown",1,1,35.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Reverse-Grip Cable Pushdown",2,10,45.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Reverse-Grip Cable Pushdown",3,12,55.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Face Pull",1,12,35.0
+"Fri, Jun 12 · 11:06",2026-06-12,"Face Pull",2,12,40.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Barbell Bench Press",1,10,30.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Barbell Bench Press",2,10,40.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Barbell Bench Press",3,10,50.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Barbell Bench Press",4,10,60.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Barbell Bench Press",5,10,60.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Barbell Bench Press",6,10,65.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Barbell Bench Press",7,6,70.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Cable Row",1,10,45.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Cable Row",2,10,55.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Cable Row",3,10,60.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Cable Row",4,8,65.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Dumbbell Shoulder Press",1,10,10.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Dumbbell Shoulder Press",2,10,15.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Dumbbell Shoulder Press",3,10,15.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Dumbbell Lateral Raise on a Bench",1,10,8.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Dumbbell Lateral Raise on a Bench",2,8,8.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Seated Dumbbell Lateral Raise on a Bench",3,8,8.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Triceps Rope Pushdown",1,10,30.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Triceps Rope Pushdown",2,10,35.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Triceps Rope Pushdown",3,10,40.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Preacher Curl",1,10,20.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Preacher Curl",2,10,30.0
+"Wed, Jun 10 · 11:54",2026-06-10,"Preacher Curl",3,10,25.0
+"Jun 8",2026-06-08,"Leg Press",1,10,100.0
+"Jun 8",2026-06-08,"Leg Press",2,10,110.0
+"Jun 8",2026-06-08,"Leg Press",3,10,120.0
+"Jun 8",2026-06-08,"Leg Press",4,10,130.0
+"Jun 8",2026-06-08,"Leg Press",5,10,140.0
+"Jun 8",2026-06-08,"Romanian Deadlift",1,10,35.0
+"Jun 8",2026-06-08,"Romanian Deadlift",2,10,35.0
+"Jun 8",2026-06-08,"Romanian Deadlift",3,10,40.0
+"Jun 8",2026-06-08,"Romanian Deadlift",4,10,40.0
+"Jun 8",2026-06-08,"Barbell Hip Thrust",1,10,90.0
+"Jun 8",2026-06-08,"Barbell Hip Thrust",2,10,100.0
+"Jun 8",2026-06-08,"Barbell Hip Thrust",3,10,110.0
+"Jun 8",2026-06-08,"Barbell Hip Thrust",4,10,110.0
+"Jun 8",2026-06-08,"Leg Extension",1,10,65.0
+"Jun 8",2026-06-08,"Leg Extension",2,10,70.0
+"Jun 8",2026-06-08,"Leg Extension",3,10,70.0
+"Jun 5",2026-06-05,"Seated Machine Chest Press",1,12,40.0
+"Jun 5",2026-06-05,"Seated Machine Chest Press",2,10,50.0
+"Jun 5",2026-06-05,"Seated Machine Chest Press",3,10,55.0
+"Jun 5",2026-06-05,"Seated Machine Chest Press",4,10,60.0
+"Jun 5",2026-06-05,"Seated Machine Chest Press",5,10,65.0
+"Jun 5",2026-06-05,"Seated Cable Row",1,10,50.0
+"Jun 5",2026-06-05,"Seated Cable Row",2,10,55.0
+"Jun 5",2026-06-05,"Seated Cable Row",3,10,60.0
+"Jun 5",2026-06-05,"Seated Cable Row",4,6,65.0
+"Jun 5",2026-06-05,"Wide-Grip Lat Pulldown",1,10,45.0
+"Jun 5",2026-06-05,"Wide-Grip Lat Pulldown",2,10,50.0
+"Jun 5",2026-06-05,"Wide-Grip Lat Pulldown",3,10,50.0
+"Jun 5",2026-06-05,"Wide-Grip Lat Pulldown",4,10,55.0
+"Jun 5",2026-06-05,"Machine Shoulder Press",1,10,30.0
+"Jun 5",2026-06-05,"Machine Shoulder Press",2,10,30.0
+"Jun 5",2026-06-05,"Machine Shoulder Press",3,10,35.0
+"Jun 5",2026-06-05,"Face Pull",1,10,30.0
+"Jun 5",2026-06-05,"Face Pull",2,10,35.0
+"Jun 5",2026-06-05,"Face Pull",3,10,40.0
+"Jun 5",2026-06-05,"Machine Crunch",1,12,70.0
+"Jun 5",2026-06-05,"Machine Crunch",2,12,80.0
+"Jun 5",2026-06-05,"Machine Crunch",3,12,85.0
+"Jun 3",2026-06-03,"Leg Press",1,10,100.0
+"Jun 3",2026-06-03,"Leg Press",2,10,110.0
+"Jun 3",2026-06-03,"Leg Press",3,10,120.0
+"Jun 3",2026-06-03,"Leg Press",4,10,130.0
+"Jun 3",2026-06-03,"Barbell Hip Thrust",1,10,80.0
+"Jun 3",2026-06-03,"Barbell Hip Thrust",2,10,90.0
+"Jun 3",2026-06-03,"Barbell Hip Thrust",3,10,100.0
+"Jun 3",2026-06-03,"Barbell Hip Thrust",4,10,110.0
+"Jun 3",2026-06-03,"Bulgarian Split Squat",1,10,0.0
+"Jun 3",2026-06-03,"Bulgarian Split Squat",2,10,0.0
+"Jun 3",2026-06-03,"Bulgarian Split Squat",3,10,0.0
+"Jun 3",2026-06-03,"Back Extension",1,10,0.0
+"Jun 3",2026-06-03,"Back Extension",2,10,10.0
+"Jun 3",2026-06-03,"Back Extension",3,10,10.0
+"Jun 3",2026-06-03,"Machine Crunch",1,10,70.0
+"Jun 3",2026-06-03,"Machine Crunch",2,10,75.0
+"Jun 3",2026-06-03,"Machine Crunch",3,10,80.0
+"Jun 1",2026-06-01,"Wide-Grip Lat Pulldown",1,10,40.0
+"Jun 1",2026-06-01,"Wide-Grip Lat Pulldown",2,10,45.0
+"Jun 1",2026-06-01,"Wide-Grip Lat Pulldown",3,10,50.0
+"Jun 1",2026-06-01,"Wide-Grip Lat Pulldown",4,10,55.0
+"Jun 1",2026-06-01,"Barbell Bench Press",1,10,40.0
+"Jun 1",2026-06-01,"Barbell Bench Press",2,10,50.0
+"Jun 1",2026-06-01,"Barbell Bench Press",3,10,55.0
+"Jun 1",2026-06-01,"Barbell Bench Press",4,10,60.0
+"Jun 1",2026-06-01,"Barbell Bench Press",5,8,60.0
+"Jun 1",2026-06-01,"Seated Cable Row",1,10,50.0
+"Jun 1",2026-06-01,"Seated Cable Row",2,10,55.0
+"Jun 1",2026-06-01,"Seated Cable Row",3,8,60.0
+"Jun 1",2026-06-01,"Seated Cable Row",4,8,65.0
+"Jun 1",2026-06-01,"Machine Crunch",1,10,70.0
+"Jun 1",2026-06-01,"Machine Crunch",2,10,80.0
+"Jun 1",2026-06-01,"Machine Crunch",3,8,80.0
+"Jun 1",2026-06-01,"Back Extension",1,10,0.0
+"Jun 1",2026-06-01,"Back Extension",2,10,10.0
+"Jun 1",2026-06-01,"Back Extension",3,10,10.0
+"May 29",2026-05-29,"Seated Machine Chest Press",1,16,20.0
+"May 29",2026-05-29,"Seated Machine Chest Press",2,10,40.0
+"May 29",2026-05-29,"Seated Machine Chest Press",3,10,50.0
+"May 29",2026-05-29,"Seated Machine Chest Press",4,10,60.0
+"May 29",2026-05-29,"Seated Machine Chest Press",5,10,60.0
+"May 29",2026-05-29,"Seated Cable Row",1,10,50.0
+"May 29",2026-05-29,"Seated Cable Row",2,10,55.0
+"May 29",2026-05-29,"Seated Cable Row",3,10,60.0
+"May 29",2026-05-29,"Seated Cable Row",4,10,60.0
+"May 29",2026-05-29,"Seated Dumbbell Shoulder Press",1,10,10.0
+"May 29",2026-05-29,"Seated Dumbbell Shoulder Press",2,10,12.5
+"May 29",2026-05-29,"Seated Dumbbell Shoulder Press",3,10,15.0
+"May 29",2026-05-29,"Face Pull",1,10,30.0
+"May 29",2026-05-29,"Face Pull",2,10,35.0
+"May 29",2026-05-29,"Face Pull",3,10,40.0
+"May 29",2026-05-29,"Wide-Grip Lat Pulldown",1,10,45.0
+"May 29",2026-05-29,"Wide-Grip Lat Pulldown",2,10,50.0
+"May 29",2026-05-29,"Wide-Grip Lat Pulldown",3,10,50.0
+"May 29",2026-05-29,"Machine Crunch",1,10,70.0
+"May 29",2026-05-29,"Machine Crunch",2,10,80.0
+"May 29",2026-05-29,"Machine Crunch",3,10,80.0
+"May 27",2026-05-27,"Leg Press",1,10,100.0
+"May 27",2026-05-27,"Leg Press",2,10,110.0
+"May 27",2026-05-27,"Leg Press",3,10,120.0
+"May 27",2026-05-27,"Leg Press",4,10,130.0
+"May 27",2026-05-27,"Bulgarian Split Squat",1,10,0.0
+"May 27",2026-05-27,"Bulgarian Split Squat",2,10,0.0
+"May 27",2026-05-27,"Bulgarian Split Squat",3,10,0.0
+"May 27",2026-05-27,"Leg Extension",1,10,60.0
+"May 27",2026-05-27,"Leg Extension",2,10,65.0
+"May 27",2026-05-27,"Leg Extension",3,10,65.0
+"May 27",2026-05-27,"Dumbbell Lunge",1,10,22.5
+"May 27",2026-05-27,"Dumbbell Lunge",2,10,22.5
+"May 27",2026-05-27,"Dumbbell Lunge",3,10,22.5
+"May 25",2026-05-25,"Leg Press",1,10,90.0
+"May 25",2026-05-25,"Leg Press",2,10,100.0
+"May 25",2026-05-25,"Leg Press",3,10,110.0
+"May 25",2026-05-25,"Leg Press",4,10,120.0
+"May 25",2026-05-25,"Seated Cable Row",1,10,50.0
+"May 25",2026-05-25,"Seated Cable Row",2,10,55.0
+"May 25",2026-05-25,"Seated Cable Row",3,10,60.0
+"May 25",2026-05-25,"Seated Cable Row",4,6,65.0
+"May 25",2026-05-25,"Barbell Bench Press",1,10,40.0
+"May 25",2026-05-25,"Barbell Bench Press",2,10,50.0
+"May 25",2026-05-25,"Barbell Bench Press",3,10,55.0
+"May 25",2026-05-25,"Barbell Bench Press",4,10,60.0
+"May 25",2026-05-25,"Barbell Hip Thrust",1,10,70.0
+"May 25",2026-05-25,"Barbell Hip Thrust",2,10,90.0
+"May 25",2026-05-25,"Barbell Hip Thrust",3,10,100.0
+"May 25",2026-05-25,"Barbell Hip Thrust",4,10,110.0
+"May 25",2026-05-25,"Reverse-Grip Lat Pulldown",1,10,45.0
+"May 25",2026-05-25,"Reverse-Grip Lat Pulldown",2,10,50.0
+"May 25",2026-05-25,"Reverse-Grip Lat Pulldown",3,10,50.0
+"May 25",2026-05-25,"Dumbbell Lunge",1,10,15.0
+"May 25",2026-05-25,"Dumbbell Lunge",2,10,17.5
+"May 25",2026-05-25,"Dumbbell Lunge",3,10,17.5
+"May 22",2026-05-22,"Barbell Bench Press",1,10,40.0
+"May 22",2026-05-22,"Barbell Bench Press",2,10,50.0
+"May 22",2026-05-22,"Barbell Bench Press",3,10,55.0
+"May 22",2026-05-22,"Barbell Bench Press",4,9,60.0
+"May 22",2026-05-22,"Barbell Bench Press",5,10,50.0
+"May 22",2026-05-22,"Seated Cable Row",1,10,45.0
+"May 22",2026-05-22,"Seated Cable Row",2,10,50.0
+"May 22",2026-05-22,"Seated Cable Row",3,10,60.0
+"May 22",2026-05-22,"Seated Cable Row",4,10,60.0
+"May 22",2026-05-22,"Machine Shoulder Press",1,10,30.0
+"May 22",2026-05-22,"Machine Shoulder Press",2,10,30.0
+"May 22",2026-05-22,"Machine Shoulder Press",3,8,30.0
+"May 22",2026-05-22,"Wide-Grip Lat Pulldown",1,10,45.0
+"May 22",2026-05-22,"Wide-Grip Lat Pulldown",2,10,50.0
+"May 22",2026-05-22,"Wide-Grip Lat Pulldown",3,10,50.0
+"May 22",2026-05-22,"Face Pull",1,10,30.0
+"May 22",2026-05-22,"Face Pull",2,10,30.0
+"May 22",2026-05-22,"Face Pull",3,10,35.0
+"May 22",2026-05-22,"Machine Crunch",1,10,70.0
+"May 22",2026-05-22,"Machine Crunch",2,10,75.0
+"May 22",2026-05-22,"Machine Crunch",3,10,80.0
+"May 22",2026-05-22,"Machine Crunch",4,6,80.0
+"May 20",2026-05-20,"Leg Press",1,10,90.0
+"May 20",2026-05-20,"Leg Press",2,10,100.0
+"May 20",2026-05-20,"Leg Press",3,10,110.0
+"May 20",2026-05-20,"Leg Press",4,10,120.0
+"May 20",2026-05-20,"Barbell Hip Thrust",1,10,60.0
+"May 20",2026-05-20,"Barbell Hip Thrust",2,10,80.0
+"May 20",2026-05-20,"Barbell Hip Thrust",3,10,90.0
+"May 20",2026-05-20,"Barbell Hip Thrust",4,10,100.0
+"May 20",2026-05-20,"Romanian Deadlift",1,10,30.0
+"May 20",2026-05-20,"Romanian Deadlift",2,10,30.0
+"May 20",2026-05-20,"Romanian Deadlift",3,10,35.0
+"May 20",2026-05-20,"Dumbbell Lunge",1,12,15.0
+"May 20",2026-05-20,"Dumbbell Lunge",2,10,17.5
+"May 20",2026-05-20,"Dumbbell Lunge",3,10,17.5
+"May 20",2026-05-20,"Seated Leg Curl",1,10,50.0
+"May 20",2026-05-20,"Seated Leg Curl",2,10,60.0
+"May 20",2026-05-20,"Seated Leg Curl",3,10,60.0
+"May 18",2026-05-18,"Barbell Bench Press",1,12,30.0
+"May 18",2026-05-18,"Barbell Bench Press",2,10,40.0
+"May 18",2026-05-18,"Barbell Bench Press",3,10,50.0
+"May 18",2026-05-18,"Barbell Bench Press",4,10,55.0
+"May 18",2026-05-18,"Barbell Bench Press",5,10,55.0
+"May 18",2026-05-18,"Seated Cable Row",1,10,45.0
+"May 18",2026-05-18,"Seated Cable Row",2,10,50.0
+"May 18",2026-05-18,"Seated Cable Row",3,10,55.0
+"May 18",2026-05-18,"Seated Cable Row",4,10,60.0
+"May 18",2026-05-18,"Machine Shoulder Press",1,10,20.0
+"May 18",2026-05-18,"Machine Shoulder Press",2,10,20.0
+"May 18",2026-05-18,"Machine Shoulder Press",3,10,25.0
+"May 18",2026-05-18,"Machine Shoulder Press",4,10,25.0
+"May 18",2026-05-18,"Wide-Grip Lat Pulldown",1,10,45.0
+"May 18",2026-05-18,"Wide-Grip Lat Pulldown",2,10,50.0
+"May 18",2026-05-18,"Wide-Grip Lat Pulldown",3,10,50.0
+"May 18",2026-05-18,"Machine Crunch",1,10,70.0
+"May 18",2026-05-18,"Machine Crunch",2,10,70.0
+"May 18",2026-05-18,"Machine Crunch",3,10,80.0
+"May 15",2026-05-15,"Barbell Hip Thrust",1,10,60.0
+"May 15",2026-05-15,"Barbell Hip Thrust",2,10,80.0
+"May 15",2026-05-15,"Barbell Hip Thrust",3,10,100.0
+"May 15",2026-05-15,"Leg Press",1,10,90.0
+"May 15",2026-05-15,"Leg Press",2,10,100.0
+"May 15",2026-05-15,"Leg Press",3,10,110.0
+"May 15",2026-05-15,"Leg Press",4,10,110.0
+"May 15",2026-05-15,"Romanian Deadlift",1,10,25.0
+"May 15",2026-05-15,"Romanian Deadlift",2,10,30.0
+"May 15",2026-05-15,"Romanian Deadlift",3,10,30.0
+"May 15",2026-05-15,"Dumbbell Lunge",1,10,15.0
+"May 15",2026-05-15,"Dumbbell Lunge",2,10,15.0
+"May 15",2026-05-15,"Dumbbell Lunge",3,10,17.5
+"May 15",2026-05-15,"Leg Extension",1,10,50.0
+"May 15",2026-05-15,"Leg Extension",2,10,55.0
+"May 15",2026-05-15,"Leg Extension",3,10,60.0
+"May 15",2026-05-15,"Machine Crunch",1,12,70.0
+"May 15",2026-05-15,"Machine Crunch",2,12,70.0
+"May 15",2026-05-15,"Machine Crunch",3,16,70.0
+"May 13",2026-05-13,"Leg Press",1,10,90.0
+"May 13",2026-05-13,"Leg Press",2,10,100.0
+"May 13",2026-05-13,"Leg Press",3,10,110.0
+"May 13",2026-05-13,"Leg Press",4,10,120.0
+"May 13",2026-05-13,"Seated Cable Row",1,10,50.0
+"May 13",2026-05-13,"Seated Cable Row",2,10,55.0
+"May 13",2026-05-13,"Seated Cable Row",3,10,60.0
+"May 13",2026-05-13,"Seated Cable Row",4,6,60.0
+"May 13",2026-05-13,"Machine Shoulder Press",1,10,20.0
+"May 13",2026-05-13,"Machine Shoulder Press",2,10,30.0
+"May 13",2026-05-13,"Machine Shoulder Press",3,10,30.0
+"May 13",2026-05-13,"Machine Shoulder Press",4,8,30.0
+"May 13",2026-05-13,"Barbell Hip Thrust",1,10,70.0
+"May 13",2026-05-13,"Barbell Hip Thrust",2,10,90.0
+"May 13",2026-05-13,"Barbell Hip Thrust",3,10,90.0
+"May 11",2026-05-11,"Barbell Bench Press",1,14,20.0
+"May 11",2026-05-11,"Barbell Bench Press",2,12,35.0
+"May 11",2026-05-11,"Barbell Bench Press",3,10,45.0
+"May 11",2026-05-11,"Barbell Bench Press",4,10,55.0
+"May 11",2026-05-11,"Barbell Bench Press",5,8,60.0
+"May 11",2026-05-11,"Seated Cable Row",1,10,45.0
+"May 11",2026-05-11,"Seated Cable Row",2,10,50.0
+"May 11",2026-05-11,"Seated Cable Row",3,10,55.0
+"May 11",2026-05-11,"Seated Cable Row",4,8,60.0
+"May 11",2026-05-11,"Wide-Grip Lat Pulldown",1,10,45.0
+"May 11",2026-05-11,"Wide-Grip Lat Pulldown",2,10,50.0
+"May 11",2026-05-11,"Wide-Grip Lat Pulldown",3,6,55.0
+"May 11",2026-05-11,"Incline Dumbbell Bench Press",1,10,12.5
+"May 11",2026-05-11,"Incline Dumbbell Bench Press",2,10,15.0
+"May 11",2026-05-11,"Incline Dumbbell Bench Press",3,10,15.0
+"May 11",2026-05-11,"Face Pull",1,10,30.0
+"May 11",2026-05-11,"Face Pull",2,10,35.0
+"May 11",2026-05-11,"Face Pull",3,10,35.0
+"May 8",2026-05-08,"Leg Press",1,12,90.0
+"May 8",2026-05-08,"Leg Press",2,10,100.0
+"May 8",2026-05-08,"Leg Press",3,10,110.0
+"May 8",2026-05-08,"Leg Press",4,10,120.0
+"May 8",2026-05-08,"Barbell Hip Thrust",1,10,60.0
+"May 8",2026-05-08,"Barbell Hip Thrust",2,10,80.0
+"May 8",2026-05-08,"Barbell Hip Thrust",3,10,90.0
+"May 8",2026-05-08,"Barbell Hip Thrust",4,10,95.0
+"May 8",2026-05-08,"Seated Leg Curl",1,10,50.0
+"May 8",2026-05-08,"Seated Leg Curl",2,10,55.0
+"May 8",2026-05-08,"Seated Leg Curl",3,10,60.0
+"May 8",2026-05-08,"Seated Leg Curl",4,10,60.0
+"May 8",2026-05-08,"Dumbbell Lunge",1,10,17.5
+"May 8",2026-05-08,"Dumbbell Lunge",2,10,17.5
+"May 8",2026-05-08,"Dumbbell Lunge",3,10,17.5
+"May 6",2026-05-06,"Barbell Bench Press",1,10,30.0
+"May 6",2026-05-06,"Barbell Bench Press",2,10,40.0
+"May 6",2026-05-06,"Barbell Bench Press",3,10,50.0
+"May 6",2026-05-06,"Barbell Bench Press",4,10,55.0
+"May 6",2026-05-06,"Seated Cable Row",1,10,45.0
+"May 6",2026-05-06,"Seated Cable Row",2,10,50.0
+"May 6",2026-05-06,"Seated Cable Row",3,10,55.0
+"May 6",2026-05-06,"Seated Cable Row",4,10,55.0
+"May 6",2026-05-06,"Face Pull",1,12,30.0
+"May 6",2026-05-06,"Face Pull",2,12,30.0
+"May 6",2026-05-06,"Face Pull",3,12,30.0
+"May 6",2026-05-06,"Machine Crunch",1,12,70.0
+"May 6",2026-05-06,"Machine Crunch",2,12,70.0
+"May 6",2026-05-06,"Machine Crunch",3,10,70.0
+"May 4",2026-05-04,"Leg Press",1,10,90.0
+"May 4",2026-05-04,"Leg Press",2,10,100.0
+"May 4",2026-05-04,"Leg Press",3,10,110.0
+"May 4",2026-05-04,"Leg Press",4,10,120.0
+"May 4",2026-05-04,"Barbell Hip Thrust",1,10,60.0
+"May 4",2026-05-04,"Barbell Hip Thrust",2,10,80.0
+"May 4",2026-05-04,"Barbell Hip Thrust",3,10,90.0
+"May 4",2026-05-04,"Barbell Hip Thrust",4,10,90.0
+"May 4",2026-05-04,"Romanian Deadlift",1,10,25.0
+"May 4",2026-05-04,"Romanian Deadlift",2,10,30.0
+"May 4",2026-05-04,"Romanian Deadlift",3,10,30.0
+"May 4",2026-05-04,"Seated Leg Curl",1,10,40.0
+"May 4",2026-05-04,"Seated Leg Curl",2,10,50.0
+"May 4",2026-05-04,"Seated Leg Curl",3,10,60.0
+"May 4",2026-05-04,"Seated Leg Curl",4,10,60.0
+"May 4",2026-05-04,"Leg Extension",1,10,40.0
+"May 4",2026-05-04,"Leg Extension",2,10,50.0
+"May 4",2026-05-04,"Leg Extension",3,10,60.0
+"May 4",2026-05-04,"Back Extension",1,10,0.0
+"May 4",2026-05-04,"Back Extension",2,10,5.0
+"May 4",2026-05-04,"Back Extension",3,10,5.0
+"May 4",2026-05-04,"Back Extension",4,10,10.0
+"May 1",2026-05-01,"Wide-Grip Lat Pulldown",1,10,45.0
+"May 1",2026-05-01,"Wide-Grip Lat Pulldown",2,10,50.0
+"May 1",2026-05-01,"Wide-Grip Lat Pulldown",3,10,50.0
+"May 1",2026-05-01,"Wide-Grip Lat Pulldown",4,5,55.0
+"May 1",2026-05-01,"Seated Cable Row",1,10,45.0
+"May 1",2026-05-01,"Seated Cable Row",2,10,45.0
+"May 1",2026-05-01,"Seated Cable Row",3,10,45.0
+"May 1",2026-05-01,"Seated Cable Row",4,10,45.0
+"May 1",2026-05-01,"Seated Machine Chest Press",1,10,35.0
+"May 1",2026-05-01,"Seated Machine Chest Press",2,10,40.0
+"May 1",2026-05-01,"Seated Machine Chest Press",3,10,45.0
+"May 1",2026-05-01,"Seated Machine Chest Press",4,10,50.0
+"May 1",2026-05-01,"Seated Machine Chest Press",5,10,55.0
+"May 1",2026-05-01,"Incline Dumbbell Bench Press",1,10,10.0
+"May 1",2026-05-01,"Incline Dumbbell Bench Press",2,10,12.5
+"May 1",2026-05-01,"Incline Dumbbell Bench Press",3,10,12.5
+"May 1",2026-05-01,"Face Pull",1,12,30.0
+"May 1",2026-05-01,"Face Pull",2,12,30.0
+"May 1",2026-05-01,"Face Pull",3,12,30.0
+"May 1",2026-05-01,"Machine Crunch",1,10,50.0
+"May 1",2026-05-01,"Machine Crunch",2,10,70.0
+"May 1",2026-05-01,"Machine Crunch",3,10,80.0
+"May 1",2026-05-01,"Machine Crunch",4,8,80.0
+"Apr 29",2026-04-29,"Leg Press",1,10,90.0
+"Apr 29",2026-04-29,"Leg Press",2,10,100.0
+"Apr 29",2026-04-29,"Leg Press",3,10,110.0
+"Apr 29",2026-04-29,"Leg Press",4,10,120.0
+"Apr 29",2026-04-29,"Leg Press",5,10,120.0
+"Apr 29",2026-04-29,"Romanian Deadlift",1,10,30.0
+"Apr 29",2026-04-29,"Romanian Deadlift",2,10,30.0
+"Apr 29",2026-04-29,"Romanian Deadlift",3,10,30.0
+"Apr 29",2026-04-29,"Barbell Hip Thrust",1,10,60.0
+"Apr 29",2026-04-29,"Barbell Hip Thrust",2,10,80.0
+"Apr 29",2026-04-29,"Barbell Hip Thrust",3,10,90.0
+"Apr 29",2026-04-29,"Barbell Hip Thrust",4,10,90.0
+"Apr 29",2026-04-29,"Seated Leg Curl",1,10,50.0
+"Apr 29",2026-04-29,"Seated Leg Curl",2,10,55.0
+"Apr 29",2026-04-29,"Seated Leg Curl",3,10,60.0
+"Apr 29",2026-04-29,"Machine Crunch",1,10,90.0
+"Apr 29",2026-04-29,"Machine Crunch",2,8,90.0
+"Apr 29",2026-04-29,"Machine Crunch",3,6,80.0
+"Apr 27",2026-04-27,"Wide-Grip Lat Pulldown",1,10,45.0
+"Apr 27",2026-04-27,"Wide-Grip Lat Pulldown",2,10,50.0
+"Apr 27",2026-04-27,"Wide-Grip Lat Pulldown",3,10,55.0
+"Apr 27",2026-04-27,"Wide-Grip Lat Pulldown",4,10,60.0
+"Apr 27",2026-04-27,"Reverse-Grip Lat Pulldown",1,10,45.0
+"Apr 27",2026-04-27,"Reverse-Grip Lat Pulldown",2,10,50.0
+"Apr 27",2026-04-27,"Reverse-Grip Lat Pulldown",3,8,50.0
+"Apr 27",2026-04-27,"Seated Machine Chest Press",1,10,35.0
+"Apr 27",2026-04-27,"Seated Machine Chest Press",2,10,45.0
+"Apr 27",2026-04-27,"Seated Machine Chest Press",3,10,50.0
+"Apr 27",2026-04-27,"Seated Machine Chest Press",4,10,55.0
+"Apr 27",2026-04-27,"Incline Dumbbell Bench Press",1,10,10.0
+"Apr 27",2026-04-27,"Incline Dumbbell Bench Press",2,10,12.5
+"Apr 27",2026-04-27,"Incline Dumbbell Bench Press",3,10,12.5
+"Apr 27",2026-04-27,"Face Pull",1,12,25.0
+"Apr 27",2026-04-27,"Face Pull",2,12,25.0
+"Apr 27",2026-04-27,"Face Pull",3,12,30.0
+"Apr 27",2026-04-27,"Machine Crunch",1,12,50.0
+"Apr 27",2026-04-27,"Machine Crunch",2,12,70.0
+"Apr 27",2026-04-27,"Machine Crunch",3,12,80.0
+"Apr 27",2026-04-27,"Machine Crunch",4,10,80.0
+"Apr 24",2026-04-24,"Leg Press",1,10,80.0
+"Apr 24",2026-04-24,"Leg Press",2,10,90.0
+"Apr 24",2026-04-24,"Leg Press",3,10,100.0
+"Apr 24",2026-04-24,"Leg Press",4,10,110.0
+"Apr 24",2026-04-24,"Romanian Deadlift",1,10,25.0
+"Apr 24",2026-04-24,"Romanian Deadlift",2,10,30.0
+"Apr 24",2026-04-24,"Romanian Deadlift",3,10,30.0
+"Apr 24",2026-04-24,"Barbell Hip Thrust",1,10,70.0
+"Apr 24",2026-04-24,"Barbell Hip Thrust",2,10,70.0
+"Apr 24",2026-04-24,"Barbell Hip Thrust",3,10,70.0
+"Apr 24",2026-04-24,"Barbell Hip Thrust",4,10,80.0
+"Apr 24",2026-04-24,"Seated Leg Curl",1,10,30.0
+"Apr 24",2026-04-24,"Seated Leg Curl",2,10,40.0
+"Apr 24",2026-04-24,"Seated Leg Curl",3,10,50.0
+"Apr 24",2026-04-24,"Dumbbell Lunge",1,10,12.5
+"Apr 24",2026-04-24,"Dumbbell Lunge",2,10,12.5
+"Apr 24",2026-04-24,"Dumbbell Lunge",3,10,12.5
+"Apr 22",2026-04-22,"Seated Cable Row",1,10,40.0
+"Apr 22",2026-04-22,"Seated Cable Row",2,10,50.0
+"Apr 22",2026-04-22,"Seated Cable Row",3,10,50.0
+"Apr 22",2026-04-22,"Seated Cable Row",4,10,55.0
+"Apr 22",2026-04-22,"Reverse-Grip Lat Pulldown",1,10,45.0
+"Apr 22",2026-04-22,"Reverse-Grip Lat Pulldown",2,10,45.0
+"Apr 22",2026-04-22,"Reverse-Grip Lat Pulldown",3,8,50.0
+"Apr 22",2026-04-22,"Seated Machine Chest Press",1,10,35.0
+"Apr 22",2026-04-22,"Seated Machine Chest Press",2,10,45.0
+"Apr 22",2026-04-22,"Seated Machine Chest Press",3,10,55.0
+"Apr 22",2026-04-22,"Seated Machine Chest Press",4,10,55.0
+"Apr 22",2026-04-22,"Incline Dumbbell Bench Press",1,8,15.0
+"Apr 22",2026-04-22,"Incline Dumbbell Bench Press",2,10,10.0
+"Apr 22",2026-04-22,"Incline Dumbbell Bench Press",3,10,10.0
+"Apr 20",2026-04-20,"Leg Press",1,10,80.0
+"Apr 20",2026-04-20,"Leg Press",2,10,90.0
+"Apr 20",2026-04-20,"Leg Press",3,10,100.0
+"Apr 20",2026-04-20,"Seated Cable Row",1,10,45.0
+"Apr 20",2026-04-20,"Seated Cable Row",2,10,50.0
+"Apr 20",2026-04-20,"Seated Cable Row",3,10,55.0
+"Apr 20",2026-04-20,"Wide-Grip Lat Pulldown",1,10,45.0
+"Apr 20",2026-04-20,"Wide-Grip Lat Pulldown",2,10,45.0
+"Apr 20",2026-04-20,"Wide-Grip Lat Pulldown",3,7,50.0
+"Apr 20",2026-04-20,"Wide-Grip Lat Pulldown",4,8,50.0
+"Apr 20",2026-04-20,"Pec Deck Fly",1,10,35.0
+"Apr 20",2026-04-20,"Pec Deck Fly",2,10,35.0
+"Apr 20",2026-04-20,"Pec Deck Fly",3,10,35.0
+"Apr 20",2026-04-20,"Barbell Hip Thrust",1,10,60.0
+"Apr 20",2026-04-20,"Barbell Hip Thrust",2,10,60.0
+"Apr 20",2026-04-20,"Barbell Hip Thrust",3,10,70.0
+"Apr 20",2026-04-20,"Face Pull",1,12,40.0
+"Apr 20",2026-04-20,"Face Pull",2,12,45.0
+"Apr 20",2026-04-20,"Face Pull",3,12,50.0
+"Apr 18",2026-04-18,"Barbell Bench Press",1,10,20.0
+"Apr 18",2026-04-18,"Barbell Bench Press",2,10,30.0
+"Apr 18",2026-04-18,"Barbell Bench Press",3,10,40.0
+"Apr 18",2026-04-18,"Barbell Bench Press",4,10,50.0
+"Apr 18",2026-04-18,"Barbell Bench Press",5,9,50.0
+"Apr 18",2026-04-18,"Wide-Grip Lat Pulldown",1,10,35.0
+"Apr 18",2026-04-18,"Wide-Grip Lat Pulldown",2,10,45.0
+"Apr 18",2026-04-18,"Wide-Grip Lat Pulldown",3,10,50.0
+"Apr 18",2026-04-18,"Wide-Grip Lat Pulldown",4,10,50.0
+"Apr 18",2026-04-18,"Seated Cable Row",1,10,40.0
+"Apr 18",2026-04-18,"Seated Cable Row",2,10,50.0
+"Apr 18",2026-04-18,"Seated Cable Row",3,10,50.0
+"Apr 18",2026-04-18,"Machine Shoulder Press",1,10,5.0
+"Apr 18",2026-04-18,"Machine Shoulder Press",2,10,10.0
+"Apr 18",2026-04-18,"Machine Shoulder Press",3,10,25.0
+"Apr 18",2026-04-18,"Machine Shoulder Press",4,6,25.0
+"Apr 18",2026-04-18,"Triceps Rope Pushdown",1,10,25.0
+"Apr 18",2026-04-18,"Triceps Rope Pushdown",2,10,30.0
+"Apr 18",2026-04-18,"Triceps Rope Pushdown",3,10,35.0
+"Apr 18",2026-04-18,"Cable Biceps Curl",1,10,35.0
+"Apr 18",2026-04-18,"Cable Biceps Curl",2,10,35.0
+"Apr 18",2026-04-18,"Cable Biceps Curl",3,10,35.0
+"Apr 16",2026-04-16,"Leg Press",1,10,80.0
+"Apr 16",2026-04-16,"Leg Press",2,10,90.0
+"Apr 16",2026-04-16,"Leg Press",3,10,100.0
+"Apr 16",2026-04-16,"Leg Press",4,10,110.0
+"Apr 16",2026-04-16,"Romanian Deadlift",1,10,25.0
+"Apr 16",2026-04-16,"Romanian Deadlift",2,10,25.0
+"Apr 16",2026-04-16,"Romanian Deadlift",3,10,25.0
+"Apr 16",2026-04-16,"Barbell Hip Thrust",1,10,40.0
+"Apr 16",2026-04-16,"Barbell Hip Thrust",2,10,50.0
+"Apr 16",2026-04-16,"Barbell Hip Thrust",3,10,60.0
+"Apr 16",2026-04-16,"Barbell Hip Thrust",4,10,60.0
+"Apr 16",2026-04-16,"Leg Extension",1,10,30.0
+"Apr 16",2026-04-16,"Leg Extension",2,10,35.0
+"Apr 16",2026-04-16,"Leg Extension",3,10,40.0
+"Apr 14",2026-04-14,"Leg Press",1,10,70.0
+"Apr 14",2026-04-14,"Leg Press",2,10,90.0
+"Apr 14",2026-04-14,"Leg Press",3,10,100.0
+"Apr 14",2026-04-14,"Wide-Grip Lat Pulldown",1,10,35.0
+"Apr 14",2026-04-14,"Wide-Grip Lat Pulldown",2,10,45.0
+"Apr 14",2026-04-14,"Wide-Grip Lat Pulldown",3,10,50.0
+"Apr 14",2026-04-14,"Wide-Grip Lat Pulldown",4,10,50.0
+"Apr 14",2026-04-14,"Seated Machine Chest Press",1,10,25.0
+"Apr 14",2026-04-14,"Seated Machine Chest Press",2,10,35.0
+"Apr 14",2026-04-14,"Seated Machine Chest Press",3,10,40.0
+"Apr 14",2026-04-14,"Seated Machine Chest Press",4,10,50.0
+"Apr 14",2026-04-14,"Barbell Hip Thrust",1,10,20.0
+"Apr 14",2026-04-14,"Barbell Hip Thrust",2,10,30.0
+"Apr 14",2026-04-14,"Barbell Hip Thrust",3,10,40.0
+"Apr 14",2026-04-14,"Leg Extension",1,10,30.0
+"Apr 14",2026-04-14,"Leg Extension",2,10,40.0
+"Apr 14",2026-04-14,"Leg Extension",3,10,50.0
+"Apr 14",2026-04-14,"Leg Extension",4,10,60.0
+"Apr 12",2026-04-12,"Barbell Bench Press",1,15,20.0
+"Apr 12",2026-04-12,"Barbell Bench Press",2,10,30.0
+"Apr 12",2026-04-12,"Barbell Bench Press",3,10,40.0
+"Apr 12",2026-04-12,"Barbell Bench Press",4,8,50.0
+"Apr 12",2026-04-12,"Barbell Bench Press",5,10,40.0
+"Apr 12",2026-04-12,"Wide-Grip Lat Pulldown",1,10,30.0
+"Apr 12",2026-04-12,"Wide-Grip Lat Pulldown",2,10,35.0
+"Apr 12",2026-04-12,"Wide-Grip Lat Pulldown",3,10,40.0
+"Apr 12",2026-04-12,"Wide-Grip Lat Pulldown",4,10,45.0
+"Apr 12",2026-04-12,"Wide-Grip Lat Pulldown",5,8,50.0
+"Apr 12",2026-04-12,"Seated Cable Row",1,10,35.0
+"Apr 12",2026-04-12,"Seated Cable Row",2,10,40.0
+"Apr 12",2026-04-12,"Seated Cable Row",3,10,45.0
+"Apr 12",2026-04-12,"Seated Cable Row",4,10,50.0
+"Apr 12",2026-04-12,"Seated Cable Row",5,8,55.0
+"Apr 12",2026-04-12,"Leg Press",1,10,60.0
+"Apr 12",2026-04-12,"Leg Press",2,10,70.0
+"Apr 12",2026-04-12,"Leg Press",3,10,80.0
+"Apr 12",2026-04-12,"Leg Press",4,10,90.0
+"Apr 12",2026-04-12,"Leg Press",5,10,100.0
+"Apr 12",2026-04-12,"Back Extension",1,10,0.0
+"Apr 12",2026-04-12,"Back Extension",2,10,0.0
+"Apr 12",2026-04-12,"Back Extension",3,10,0.0
+"Apr 12",2026-04-12,"Back Extension",4,10,2.5
