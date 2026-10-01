@@ -4,7 +4,7 @@ const fmt=new Intl.NumberFormat('ru-RU',{maximumFractionDigits:1});
 const date=s=>new Date(s+'T12:00:00Z').toLocaleDateString('ru-RU',{day:'numeric',month:'short',timeZone:'UTC'});
 const fullDate=s=>new Date(s+'T12:00:00Z').toLocaleDateString('ru-RU',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'});
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let rows=[],metric='weight',filename='workouts.csv';
+let rows=[],metric='weight',filename='workouts.csv',calendarMonth='',selectedDay='';
 function parseCSV(text){
  text=text.replace(/^\uFEFF/,'');let cells=[],row=[],field='',quoted=false;
  for(let i=0;i<text.length;i++){const c=text[i];if(c==='"'){if(quoted&&text[i+1]==='"'){field+='"';i++;}else quoted=!quoted;}else if(c===','&&!quoted){row.push(field);field='';}else if((c==='\n'||c==='\r')&&!quoted){if(c==='\r'&&text[i+1]==='\n')i++;row.push(field);if(row.some(s=>s.trim()))cells.push(row);row=[];field='';}else field+=c;}
@@ -24,13 +24,48 @@ function render(){const data=filteredRows();$('sessions').textContent=fmt.format
  $('cards').innerHTML=entries.length?entries.map(([name,rs])=>{const ps=series(rs),last=ps.at(-1)[metric],first=ps[0][metric],delta=last-first;const change=ps.length<2?'Одна дата':delta===0?'Без изменений':(delta>0?'+':'')+fmt.format(delta)+' '+(metric==='reps'?'повт.':'кг');return `<article class="card"><div class="card-head"><div><h3>${esc(name)}</h3><span class="muted">${ps.length} дат · ${rs.length} подходов</span></div></div><div class="card-value"><strong>${fmt.format(last)}</strong><span class="unit">${metric==='reps'?'повт.':'кг'}</span><span class="delta ${delta<0?'negative':delta===0||ps.length<2?'neutral':''}" title="Изменение между первой и последней датой выбранного периода">${change}</span></div><div class="chart">${chart(ps,name)}</div><details><summary>Все подходы</summary><div class="table-wrap"><table><thead><tr><th>Дата</th><th>Подход</th><th>Повт.</th><th>Вес, кг</th></tr></thead><tbody>${[...rs].sort((a,b)=>b.date.localeCompare(a.date)||a.set-b.set).map(r=>`<tr><td>${esc(date(r.date))} ${r.date.slice(0,4)}</td><td>${r.set}</td><td>${r.reps}</td><td>${fmt.format(r.weight)}</td></tr>`).join('')}</tbody></table></div></details></article>`;}).join(''):'<p class="empty">Упражнения не найдены. Попробуйте другой поиск или период.</p>';
  $('cards').querySelectorAll('circle').forEach(c=>{const tip=c.closest('.chart').querySelector('.tooltip');const show=()=>{tip.textContent=c.dataset.tip;tip.hidden=false;};const hide=()=>{tip.hidden=true;};c.addEventListener('mouseenter',show);c.addEventListener('mouseleave',hide);c.addEventListener('focus',show);c.addEventListener('blur',hide);c.addEventListener('click',show);});
 }
-function load(text,name){const next=parseCSV(text);rows=next;filename=name;$('error').hidden=true;$('filename').textContent=name;const dates=rows.map(r=>r.date).sort();$('period').textContent=fullDate(dates[0])+' — '+fullDate(dates.at(-1));$('search').value='';$('range').value='all';render();}
+
+function renderSchedule(){
+ const days=new Map();rows.forEach(r=>{if(!days.has(r.date))days.set(r.date,[]);days.get(r.date).push(r);});
+ const dates=[...days.keys()].sort();
+ $('schedule').hidden=!dates.length;
+ if(!dates.length)return;
+ if(!selectedDay)selectedDay=dates.at(-1);
+ if(!calendarMonth)calendarMonth=selectedDay.slice(0,7);
+ const [year,month]=calendarMonth.split('-').map(Number);
+ const first=new Date(Date.UTC(year,month-1,1));
+ $('calendar-month').textContent=first.toLocaleDateString('ru-RU',{month:'long',year:'numeric',timeZone:'UTC'});
+ const offset=(first.getUTCDay()+6)%7,total=new Date(Date.UTC(year,month,0)).getUTCDate();
+ $('calendar-days').innerHTML='<span class="calendar-gap" aria-hidden="true"></span>'.repeat(offset)+Array.from({length:total},(_,i)=>{
+  const d=calendarMonth+'-'+String(i+1).padStart(2,'0'),rs=days.get(d)||[],names=[...new Set(rs.map(r=>r.workout))];
+  return `<button class="calendar-day ${rs.length?'has-workout':''}" data-day="${d}" aria-pressed="${d===selectedDay}" aria-label="${esc(fullDate(d)+': '+(names.join(', ')||'Нет записей'))}"><span>${i+1}</span>${names.length?`<small>${esc(names.join(' / '))}</small>`:''}</button>`;
+ }).join('');
+ $('prev-month').disabled=calendarMonth<=dates[0].slice(0,7);
+ $('next-month').disabled=calendarMonth>=dates.at(-1).slice(0,7);
+ const rs=days.get(selectedDay)||[],workouts=[...new Set(rs.map(r=>r.workout))];
+ const weekday=new Date(selectedDay+'T12:00:00Z').toLocaleDateString('ru-RU',{weekday:'long',timeZone:'UTC'});
+ $('day-details').innerHTML=`<p class="day-weekday">${esc(weekday)}</p><h3>${esc(fullDate(selectedDay))}</h3>`+(rs.length?workouts.map(workout=>{
+  const sets=rs.filter(r=>r.workout===workout),exercises=[...new Set(sets.map(r=>r.exercise))];
+  return `<div class="session-detail"><h4>${esc(workout)}</h4><p class="muted">${exercises.length} упражнений · ${sets.length} подходов · ${fmt.format(sets.reduce((sum,r)=>sum+r.weight*r.reps,0))} кг объёма</p><ul class="session-exercises">${exercises.map(name=>{
+   const es=sets.filter(r=>r.exercise===name);
+   return `<li><button class="exercise-link" data-exercise="${esc(name)}">${esc(name)} <span aria-hidden="true">↗</span></button><p>${es.sort((a,b)=>a.set-b.set).map(r=>`${r.reps} × ${fmt.format(r.weight)} кг`).join(' · ')}</p></li>`;
+  }).join('')}</ul></div>`;
+ }).join(''):'<p class="schedule-note">В дневнике нет тренировок за этот день.</p>');
+}
+function moveMonth(delta){const [year,month]=calendarMonth.split('-').map(Number);calendarMonth=new Date(Date.UTC(year,month-1+delta,1)).toISOString().slice(0,7);renderSchedule();}
+$('prev-month').addEventListener('click',()=>moveMonth(-1));
+$('next-month').addEventListener('click',()=>moveMonth(1));
+$('latest-session').addEventListener('click',()=>{selectedDay=rows.map(r=>r.date).sort().at(-1);calendarMonth=selectedDay?.slice(0,7)||'';renderSchedule();});
+$('calendar-days').addEventListener('click',e=>{const button=e.target.closest('[data-day]');if(!button)return;selectedDay=button.dataset.day;renderSchedule();$('calendar-days').querySelector(`[data-day="${selectedDay}"]`)?.focus();});
+$('day-details').addEventListener('click',e=>{const button=e.target.closest('[data-exercise]');if(!button)return;$('search').value=button.dataset.exercise;$('range').value='all';render();$('progress').scrollIntoView({behavior:'smooth',block:'start'});$('search').focus({preventScroll:true});});
+
+function load(text,name){const next=parseCSV(text);rows=next;filename=name;$('error').hidden=true;$('filename').textContent=name;const dates=rows.map(r=>r.date).sort();$('period').textContent=fullDate(dates[0])+' — '+fullDate(dates.at(-1));$('search').value='';$('range').value='all';calendarMonth='';selectedDay='';renderSchedule();render();}
 function fail(e){$('error').textContent=e.message;$('error').hidden=false;}
 ['search','range'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',render));
 document.querySelectorAll('[data-metric]').forEach(b=>b.addEventListener('click',()=>{metric=b.dataset.metric;document.querySelectorAll('[data-metric]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));render();}));
 $('file').addEventListener('change',async e=>{const f=e.target.files[0];if(!f)return;try{load(await f.text(),f.name);}catch(err){fail(err);}e.target.value='';});
 const user=new URLSearchParams(location.search).get('u');
-function emptyState(){filename='';$('filename').textContent='CSV не выбран';$('period').textContent='';render();$('cards').innerHTML='<p class="empty">Загрузите CSV, чтобы увидеть графики.</p>';}
+function emptyState(){renderSchedule();filename='';$('filename').textContent='CSV не выбран';$('period').textContent='';render();$('cards').innerHTML='<p class="empty">Загрузите CSV, чтобы увидеть графики.</p>';}
 if(user==='ruslan'){
  fetch('data/ruslan.csv').then(r=>{if(!r.ok)throw Error('Не удалось загрузить данные. Выберите CSV с компьютера.');return r.text();}).then(t=>load(t,'ruslan.csv')).catch(e=>{emptyState();fail(e);});
 }else{emptyState();if(user)fail(new Error('Данные для этого пользователя не найдены. Загрузите свой CSV.'));}
